@@ -1,5 +1,4 @@
-**Lab 9: Adding custom plugins to extend the capabilities of Copilot for
-Security**
+## Lab 9: Adding custom plugins to extend the capabilities of Copilot for Security
 
 **Introduction**
 
