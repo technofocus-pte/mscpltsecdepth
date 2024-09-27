@@ -1,5 +1,4 @@
-**Lab 8 -** Using Copilot for Security standalone portal to get threat
-intelligence 
+## Lab 8 - Using Copilot for Security standalone portal to get threat intelligence 
 
 **Introduction**
 
