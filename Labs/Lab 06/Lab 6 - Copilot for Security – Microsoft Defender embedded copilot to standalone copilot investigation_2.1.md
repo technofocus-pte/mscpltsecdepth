@@ -1,4 +1,4 @@
-## **Lab 6-Copilot for Security – Microsoft Defender embedded copilot to standalone copilot investigation**
+## **Lab 6 - Copilot for Security – Microsoft Defender embedded copilot to standalone copilot investigation**
 
 **Introduction**
 
