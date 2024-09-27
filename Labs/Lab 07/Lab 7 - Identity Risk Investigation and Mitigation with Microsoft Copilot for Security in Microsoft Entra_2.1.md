@@ -1,5 +1,4 @@
-**Lab 7 - Identity Risk Investigation and Mitigation with Microsoft
-Copilot for Security in Microsoft Entra**
+## **Lab 7 - Identity Risk Investigation and Mitigation with Microsoft Copilot for Security in Microsoft Entra**
 
 **Introduction**
 
