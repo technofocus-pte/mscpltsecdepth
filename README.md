@@ -1,4 +1,3 @@
-# mscpltsecprv
 ## A Deep Dive into Implementing Microsoft Copilot for Security
 
 **Lab 1 - Setting up the environment for Microsoft Copilot for Security**
