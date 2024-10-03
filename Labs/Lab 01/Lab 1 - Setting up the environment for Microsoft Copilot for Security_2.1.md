@@ -71,7 +71,7 @@ Pro virtual machines.
 
 2.  On Settings window, navigate and click on **Time & language**.
 
-<img src="./media/image2.png" style="width:6.5in;height:5.72222in" />
+![] (./media/image2.png)
 
 3.  On **Time & language** page, navigate and click on **Date & time**.
 
