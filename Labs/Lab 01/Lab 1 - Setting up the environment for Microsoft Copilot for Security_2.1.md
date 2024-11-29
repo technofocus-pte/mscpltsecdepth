@@ -203,14 +203,14 @@ generated](./media/image28.png)
 
 3.  On **Azure Pass – Sponsorship** page, navigate and click on **Access
     control (IAM)**, click on **+Add** button, navigate and click on
-    **Add role assignment** as shown in the below image**.**
+    **Add role assignment** as shown in the below image.
 
  ![A screenshot of a computer Description automatically
  generated](./media/image29.png)
 
 4.  On **Add role assignment** page, click on **Privileged administrator
     roles** tab, navigate and select **Owner** role, then click on the
-    **Next** button**.**
+    **Next** button.
 
  ![A screenshot of a computer Description automatically
  generated](./media/image30.png)
@@ -224,21 +224,23 @@ generated](./media/image28.png)
 
  ![](./media/image32.png)
 
-6.  Click on the **Next** button.
 
- ![A screenshot of a computer Description automatically
- generated](./media/image33.png)
-
-7.  Click again on **Review + assign** button.
-
- ![](./media/image34.png)
-
-8.  In the **Add role assignment** – **Conditions** tab, navigate to
+6.  In the **Add role assignment** – **Conditions** tab, navigate to
     **What user can do** row and select the radio button **Allow user to
     assign all roles (highly privileged)**. Then, click on **Review +
     assign** button.
 
  ![](./media/image35.png)
+
+7.  Click on the **Next** button.
+
+ ![A screenshot of a computer Description automatically
+ generated](./media/image33.png)
+
+8.  Click on **Review + assign** button.
+
+ ![](./media/image34.png)
+
 
 9.  Click again on **Review + assign** button.
 
