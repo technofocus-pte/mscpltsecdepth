@@ -974,8 +974,11 @@ generated](./media/image89.png)
 
 54. Sign in to the Microsoft 365 portal using the following details:
 
-[TABLE]
 
+    |Username |bob@WWLxXXXXX.onmicrosoft.com  |
+    |---|---|
+    |Password | `Xof37931@` |
+    
 ![](./media/image139.png)
 
 ![](./media/image140.png)
