@@ -88,7 +88,7 @@ Pro virtual machines.
 ## **Task 1: Redeem Azure pass**
 
 1.  In your lab VM, open Microsoft Edge and
-    enter `**http://www.microsoftazurepass.com**`
+    enter **`http://www.microsoftazurepass.com`**
 
  ![](./media/image6.png)
 
