@@ -1056,9 +1056,9 @@ generated](./media/image154.png)
 
 ![](./media/image155.png)
 
-Task 8: Stop all the Virtual Machines
+**Task 8: Stop all the Virtual Machines**
 
-1. In the Azure portal search box, type +++virtual machines+++, then
+1. In the Azure portal search box, type `virtual machines`, then
 navigate and click on **Virtual machines** under **Services**.
 
 ![A screenshot of a computer Description automatically
@@ -1083,13 +1083,4 @@ generated](./media/image159.png)
 
 **Summary**
 
-In this lab, you've assigned the Owner role to the Azure subscription,
-then you've created and onboarded Windows Server and Windows 11 Pro
-virtual machines (testserver1, testVM1, and testVM2) to Microsoft
-Defender for Endpoints, bolstering security with real-time monitoring
-and threat response capabilities across different VM types. Then, you've
-created a test user account (Robert Frost) with Microsoft 365 E5 and
-Microsoft teams enterprise licenses. Finally, you've installed Microsoft
-365 apps and configured necessary settings, facilitating a comprehensive
-testing environment for Azure, Microsoft Defender, and Microsoft Copilot
-for Security features.
+In this lab, you've assigned the Owner role to the Azure subscription, then you've created and onboarded Windows Server and Windows 11 virtual machines (testserver1, testVM1, and testVM2) to Microsoft Defender for Endpoints, bolstering security with real-time monitoring and threat response capabilities across different VM types. Then, you've created a test user account (Robert Frost) with Microsoft 365 E5 (no Teams) license. Finally, you've installed Microsoft 365 apps and configured necessary settings, facilitating a comprehensive testing environment for Azure, Microsoft Defender, and Microsoft Copilot for Security features.
