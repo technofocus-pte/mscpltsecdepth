@@ -1027,7 +1027,9 @@ generated](./media/image145.png)
 
 62. Login using the following details:
 
-[TABLE]
+|Username |bob@WWLxXXXXX.onmicrosoft.com  |
+|---|---|
+|Password | `Xof37931@` |
 
 ![A screenshot of a computer Description automatically
 generated](./media/image150.png)
