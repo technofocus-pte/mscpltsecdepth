@@ -470,7 +470,7 @@ generated](./media/image67.png)
 
 ## **Task 4: Onboarding testVM1 in Microsoft Defender for Endpoints**
 
- 1. In the Azure portal search bar, type virtual machine, then
+ 1. In the Azure portal search bar, type `virtual machine`, then
  navigate and click on **Virtual machines** under **Services**.
 
 ![](./media/image74.png)
@@ -483,7 +483,7 @@ click on **Azure virtual machine**.
 3.  In **Create a virtual machine**, under the **Resource group** field,
     select **MCS-RG** resource group. Then, navigate to **Instance
     details** section, in the **Virtual machine name** field,
-    enter [**testvm1**](urn:gd:lg:a:send-vm-keys). In
+    enter `testvm1`. In
     the **Region** field, ensure **Southeast Asia** region is selected.
 
  ![](./media/image76.png)
@@ -493,6 +493,11 @@ click on **Azure virtual machine**.
     Pro, version 22H2 -x64 Gen2** from the dropdown.
 
  ![](./media/image77.png)
+
+::: info
+**Note**: In case, you did not see Windows 11 Pro, version 22H2 -x64 Gen2, then click on See all images link, navigate to Windows 11 tile and click on Select. Then, select Windows 11 Enterprise, version 22H2 - x64 Gen 2
+:::
+
 
 19. Navigate to **Administrator account** section, enter the following
     details and leave all the field in the default state:
