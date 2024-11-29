@@ -847,7 +847,7 @@ generated](./media/image124.png)
     unchecking thee check boxes and then click on **Save changes**
     button.
 
-![](./media/image125.png)
+![](./media/image8a.png)
 
 ![](./media/image126.png)
 
@@ -884,11 +884,18 @@ tasks.
 
 ![](./media/image130.png)
 
-10. In the **Optional settings** pane, enter the following details and
-    click on the **Next** button. You can mentioned your address
-    details.
+10. In the **Optional settings** pane, click on **Profile info**, enter the following details and click on the **Next** button. You can mentioned your address details.
 
-[TABLE]
+    |Job title |!!Financial Analyst!! |
+    |---|---|
+    |Department |!!Finance!! |
+    |Office |Alpine |
+    |Mobile phone |XXX-XXX-XXXX |
+    |Street Address |Suite 215 |
+    |City |Alpine |
+    |State or province |Alabama |
+    |Zip or postal code |35014 |
+    |Country or region |United States |
 
 ![A screenshot of a computer Description automatically
 generated](./media/image131.png)
