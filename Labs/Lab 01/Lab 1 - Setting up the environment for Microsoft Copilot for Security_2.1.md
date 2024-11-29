@@ -886,9 +886,9 @@ tasks.
 
 10. In the **Optional settings** pane, click on **Profile info**, enter the following details and click on the **Next** button. You can mentioned your address details.
 
-    |Job title |!!Financial Analyst!! |
+    |Job title |+++Financial Analyst+++ |
     |---|---|
-    |Department |!!Finance!! |
+    |Department |+++Finance+++ |
     |Office |Alpine |
     |Mobile phone |XXX-XXX-XXXX |
     |Street Address |Suite 215 |
