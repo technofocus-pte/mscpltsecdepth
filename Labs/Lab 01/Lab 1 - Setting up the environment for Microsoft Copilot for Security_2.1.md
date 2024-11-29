@@ -309,11 +309,12 @@ uncheck Zone 1, check Zone 2 or 3 box.
 |Username|`Admin5801`|
 |:------|:------|
 |Password	|`Administrator5801@#`	|
+|Confirm Password	|`Administrator5801@#`	|
 
  ![A screenshot of a computer Description automatically
  generated](./media/image46.png)
 
-6.  Scroll down and select the checkbox, then click on **Review +
+6.  Scroll down and select the checkboxes, then click on **Review +
     create** button as shown in the below image.
 
 ![A screenshot of a computer Description automatically
@@ -372,7 +373,7 @@ generated](./media/image47.png)
  generated](./media/image56.png)
 
 15. On **Enter your credentials** dialog box, enter the password (here,
-    **Administrator5801@***) and click on the **OK** button.
+    **Administrator5801@#**) and click on the **OK** button.
 
 ![](./media/image57.png)
 
@@ -387,7 +388,7 @@ generated](./media/image47.png)
 ![](./media/image59.png)
 
 18. In the Edge browser, open a new address bar and enter the following
-    link: **<https://security.microsoft.com** to open the Microsoft
+    link: `https://security.microsoft.com` to open the Microsoft
     Defender Portal
 
 ![](./media/image60.png)
