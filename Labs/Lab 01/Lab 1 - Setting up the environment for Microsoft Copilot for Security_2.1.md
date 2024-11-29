@@ -94,12 +94,12 @@ Azure Pass, another Azure Pass will not be issued.
 
 ![](./media/image2a.png)
 
-![](./media/image8.png)
+![](./media/image3a.png)
 
 5.  Enter Office **365 Tenant Password** and click on the **Sign in**
     button.
 
-![](./media/image9.png)
+![](./media/image4a.png)
 
 6.  On **Stayed signed in?** dialog box, click on **Yes** button.
 
