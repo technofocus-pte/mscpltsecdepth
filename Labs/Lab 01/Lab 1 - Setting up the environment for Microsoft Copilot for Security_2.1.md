@@ -929,12 +929,7 @@ under **Services**.
 ![A screenshot of a computer Description automatically
 generated](./media/image137.png)
 
-46. **vmtest1** virtual machine page will be opened.
-
-![A screenshot of a computer Description automatically
-generated](./media/image83.png)
-
-47. In **testvm1** virtual machine page, navigate and click on
+3. In **testvm1** virtual machine page, navigate and click on
     **Connect** on the left side navigation menu, scroll down to
     **Native RDP** tile, and click on the **Download RDP file**.
 
@@ -959,7 +954,7 @@ generated](./media/image83.png)
  generated](./media/image87.png)
 
 51. On **Enter your credentials** dialog box, enter the password (here,
-    +++**Administrator5801@***+++) and click on the **OK** button.
+    +++**Administrator5801@#**+++) and click on the **OK** button.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image88.png)
@@ -975,7 +970,7 @@ generated](./media/image89.png)
     Continue** button  **Continue without this data** button 
     **Confirm and start browsing** button  **Finish** button) and
     enter the following URL in the address bar:
-    [**https://portal.office.com**](https://portal.office.com)
+    +++**https://portal.office.com**+++
 
 ![](./media/image138.png)
 
