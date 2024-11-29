@@ -243,11 +243,7 @@ generated](./media/image28.png)
 
  ![](./media/image34.png)
 
-9.  Click again on **Review + assign** button.
-
- ![](./media/image36.png)
-
-10. You’ll receive a notification confirming the Owner role is
+9. You’ll receive a notification confirming the Owner role is
     successfully assigned to the subscription.
 
  ![A white background with black text Description automatically
@@ -258,18 +254,18 @@ which included Microsoft Defender for Endpoint feature.
 
 ## **Task 3: Onboarding testserver1 in Microsoft Defender for Endpoints**
 
- 1. In the Azure portal search bar, type **virtual machine**, then
+1. In the Azure portal search bar, type `virtual machine`, then
  navigate and click on **Virtual machines** under **Services**.
 
  ![](./media/image38.png)
 
-3.  In the **Virtual machines** page, navigate and click on **Create**,
+2. In the **Virtual machines** page, navigate and click on **Create**,
     then click on **Azure virtual machine**.
 
  ![A screenshot of a computer Description automatically
  generated](./media/image39.png)
 
-4.  In the **Create a virtual machine** page, navigate to **Resource
+3.  In the **Create a virtual machine** page, navigate to **Resource
     group** row and click on **Create new**. Enter the name of the
     resource group (here, we entered **MCS-RG** as resource group name),
     then click on the **OK** button.
@@ -310,7 +306,9 @@ uncheck Zone 1, check Zone 2 or 3 box.
 5.  Scroll down to **Administrator account** section, enter the
     following details:
 
-[TABLE]
+|Username|`Admin5801`|
+|:------|:------|
+|Password	|`Administrator5801@#`	|
 
  ![A screenshot of a computer Description automatically
  generated](./media/image46.png)
