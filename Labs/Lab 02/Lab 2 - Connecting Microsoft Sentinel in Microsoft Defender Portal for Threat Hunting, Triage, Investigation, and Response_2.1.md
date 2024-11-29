@@ -1,4 +1,4 @@
-## **Lab 2: Connecting Microsoft Sentinel in Microsoft Defender Portal for Threat Hunting, Triage, Investigation, and Response**
+## **Lab 2: Integrating Microsoft Sentinel Workspace with Microsoft Defender**
 
 ## Introduction
 
