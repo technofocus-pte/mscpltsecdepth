@@ -496,7 +496,7 @@ click on **Azure virtual machine**.
 
  ![](./media/image77.png)
 
-**Note**: In case, you did not see Windows 11 Pro, version 22H2 -x64 Gen2, then click on See all images link, navigate to Windows 11 tile and click on Select. Then, select Windows 11 Enterprise, version 22H2 - x64 Gen 2
+**Note**: In case, you did not see **Windows 11 Pro, version 22H2 -x64 Gen2**, then click on **See all images** link, navigate to **Windows 11** tile and click on **Select**. Then, select **Windows 11 Enterprise, version 22H2 - x64 Gen 2** as shown in the below images.
 
 ![](./media/image5a.png)
 
@@ -532,12 +532,11 @@ generated](./media/image81.png)
 22. The virtual machine is successfully created, click on the **Go to
     resource** button.
 
+![](./media/image7a.png)
+
+23. You will be directed to the **testvm1** virtual machine page.
+
 ![](./media/image82.png)
-
-23. You will be directed to the **vmtest1** virtual machine page.
-
-![A screenshot of a computer Description automatically
-generated](./media/image83.png)
 
 **Note**: If you see testvm1 virtual machine status is not ready.
 Troubleshoot the issue... then wait for 10-15 minutes and reload the
@@ -568,7 +567,7 @@ page.
  generated](./media/image87.png)
 
 28. On **Enter your credentials** dialog box, enter the password (here,
-    +++**Administrator5801@***+++) and click on the **OK** button.
+    +++**Administrator5801@#**+++) and click on the **OK** button.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image88.png)
@@ -654,7 +653,7 @@ generated](./media/image99.png)
 
 ## **Task 5: Onboarding testVM2 in Microsoft Defender for Endpoints**
 
- 1. In the Azure portal search bar, type virtual machine, then
+ 1. In the Azure portal search bar, type `virtual machine`, then
  navigate and click on **Virtual machines** under **Services**.
 
 ![](./media/image102.png)
@@ -668,7 +667,7 @@ generated](./media/image103.png)
 3.  In **Create a virtual machine**, under the **Resource group** field,
     select **MCS-RS** resource group. Then, navigate to **Instance
     details** section, in the **Virtual machine name** field,
-    enter [**testvm2**](urn:gd:lg:a:send-vm-keys). In
+    enter **testvm2**. In
     the **Region** field, ensure **Southeast Asia** region is selected.
 
  ![A screenshot of a computer Description automatically
@@ -680,10 +679,22 @@ generated](./media/image103.png)
 
 ![](./media/image105.png)
 
+**Note**: In case, you did not see **Windows 11 Pro, version 22H2 -x64 Gen2**, then click on **See all images** link, navigate to **Windows 11** tile and click on **Select**. Then, select **Windows 11 Enterprise, version 22H2 - x64 Gen 2** as shown in the below images.
+
+![](./media/image5a.png)
+
+![](./media/image5b.png)
+
+![](./media/image6a.png)
+
+
 6.  Navigate to **Administrator account** section, enter the following
     details and leave all the field in the default state:
 
-[TABLE]
+|Username|`Admin5803`|
+|:------|:------|
+|Password	|`Administrator5801@#`	|
+|Confirm Password	|`Administrator5801@#`	|
 
 ![](./media/image106.png)
 
