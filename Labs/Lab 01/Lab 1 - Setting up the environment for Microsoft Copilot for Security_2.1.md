@@ -111,7 +111,7 @@ generated](./media/image10.png)
 
  ![](./media/image11.png)
 
-8.  Enter the Promocode provided in the lab environment in the **Enter
+8.  Enter the Promocode provided in the **Resources** tab of the lab environment in the **Enter
     Promo code** field, then enter the characters under the **Enter the
     characters you see** field and click on the **Submit** button.
 
@@ -122,7 +122,7 @@ generated](./media/image10.png)
 
 ![Screenshot](./media/image13.png)
 
-10. Enter correct details in **Your Profile** page, tick all the check
+10. Enter your details in **Your Profile** page, tick all the check
     boxes, and then click on **Sign up** button.
 
  ![A screenshot of a computer Description automatically
@@ -169,7 +169,7 @@ generated](./media/image21.png)
 generated](./media/image22.png)
 
 14. Enter the number in your mobile authenticator app and select
-    **Yes**. In **testvm1**, click on the **Next** button.
+    **Yes**. 
 
 ![A screenshot of a computer error Description automatically
 generated](./media/image23.png)
@@ -183,19 +183,14 @@ generated](./media/image24.png)
 
 ![](./media/image25.png)
 
-17. Enter the number again in your mobile authenticator app and select
-    **Yes**..
-
-![](./media/image26.png)
-
-18. In the **Stay signed in?** window, click on the **Yes** button.
+18. In case,  **Stay signed in?** window appear, then click on the **Yes** button.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image10.png)
 
 ## **Task 2: Add Owner role to subscription**
 
-1.  In the Azure portal search box, type **subscription**, navigate and
+1.  In the Azure portal search box, type `subscription`, navigate and
     click on **Subscriptions** under **Services**.
 
 ![A screenshot of a computer Description automatically
