@@ -865,8 +865,6 @@ generated](./media/image124.png)
 7.  Uncheck all the boxes, in the **Password** field, enter the
     following password: +++**Xof37931@**+++
 
-[TABLE]
-
 8.  Click on the **Next** button.
 
 **Note**: You can use the **Username** and **Password** of your choice,
@@ -970,7 +968,7 @@ generated](./media/image89.png)
     Continue** button  **Continue without this data** button 
     **Confirm and start browsing** button  **Finish** button) and
     enter the following URL in the address bar:
-    +++**https://portal.office.com**+++
+    `https://portal.office.com`
 
 ![](./media/image138.png)
 
