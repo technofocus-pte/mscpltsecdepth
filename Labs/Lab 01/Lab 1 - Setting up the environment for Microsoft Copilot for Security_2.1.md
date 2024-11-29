@@ -63,7 +63,7 @@ Pro virtual machines.
     the Home tab of the Lab interface.
 
 2.  In your VM, navigate and click in the **Search bar**, type
-    **Settings** and then click on **Settings** under **Best match**.
+    `Settings` and then click on **Settings** under **Best match**.
     ![](./media/image1.png)
 
 &nbsp;
@@ -87,8 +87,7 @@ Pro virtual machines.
 
 ## **Task 1: Redeem Azure pass**
 
-1.  In your lab VM, open Microsoft Edge and
-    enter **`http://www.microsoftazurepass.com`**
+1.  In your lab VM, open Microsoft Edge and enter `http://www.microsoftazurepass.com`
 
  ![](./media/image6.png)
 
