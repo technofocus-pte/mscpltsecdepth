@@ -274,7 +274,7 @@ which included Microsoft Defender for Endpoint feature.
 
 5. Navigate to **Instance details** section, in the **virtual machine
 name** field, enter the name of the virtual machine (here, we
-entered [**TESTSERVER1**](urn:gd:lg:a:send-vm-keys)). In
+entered [**TESTSERVER1**]. In
 the **Region** field, select **Southeast Asia**. In the **Availability
 zone** field, ensure that **Zone 1** is selected. In the **Security
 type** field, click on the dropdown and select **Standard**. In
@@ -407,7 +407,7 @@ for** **Endpoints** as shown in the below image.
 In case, you did not see **Defender for Endpoint**, ensure that you are
 logged into Azure portal, then open a new address bar and enter the
 following URL and wait for the configuration to be completed:
-<https://security.microsoft.com/securitysettings/endpoints/integration?tid=
+`https://security.microsoft.com/securitysettings/endpoints/integration?tid=`
 
 ![](./media/image62.png)
 
