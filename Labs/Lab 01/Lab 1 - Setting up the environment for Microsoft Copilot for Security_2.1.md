@@ -488,21 +488,30 @@ click on **Azure virtual machine**.
 
  ![](./media/image76.png)
 
+**Note**: Ensure that you select the same zone that was chosen in the previous task.
+
 4.  In the **Security type** field, click on the dropdown and
     select **Standard**. In the **Image** field, select **Windows 11
     Pro, version 22H2 -x64 Gen2** from the dropdown.
 
  ![](./media/image77.png)
 
-::: info
 **Note**: In case, you did not see Windows 11 Pro, version 22H2 -x64 Gen2, then click on See all images link, navigate to Windows 11 tile and click on Select. Then, select Windows 11 Enterprise, version 22H2 - x64 Gen 2
-:::
+
+![](./media/image5a.png)
+
+![](./media/image5b.png)
+
+![](./media/image6a.png)
 
 
 19. Navigate to **Administrator account** section, enter the following
     details and leave all the field in the default state:
 
-[TABLE]
+|Username|`Admin5802`|
+|:------|:------|
+|Password	|`Administrator5801@#`	|
+|Confirm Password	|`Administrator5801@#`	|
 
 ![](./media/image78.png)
 
