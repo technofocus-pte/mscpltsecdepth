@@ -232,6 +232,8 @@ generated](./media/image28.png)
 
  ![](./media/image35.png)
 
+    In case, you see **Assignment type** tab, then leave it in default state and click on the **Next** button.
+
 7.  Click on the **Next** button.
 
  ![A screenshot of a computer Description automatically
@@ -240,7 +242,6 @@ generated](./media/image28.png)
 8.  Click on **Review + assign** button.
 
  ![](./media/image34.png)
-
 
 9.  Click again on **Review + assign** button.
 
