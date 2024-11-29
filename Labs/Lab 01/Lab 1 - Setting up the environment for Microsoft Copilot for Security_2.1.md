@@ -29,33 +29,21 @@ related information together for easier use. It includes:
   event management (SIEM) solution that provides proactive threat
   detection, investigation, and response.
 
-In this lab, you’ll be configuring the environment that includes
-creation of Windows server virtual machine and Windows 11 Pro virtual
-machines and onboarding them to Microsoft Defender for Endpoints for
-security monitoring. In addition, you’ll be creating a new user account
-with Office 365 license and installing the Microsoft 365 apps Windows 11
-Pro virtual machines.
+In this lab, you'll be configuring the environment that includes creation of Windows server virtual machine and Windows 11 virtual machines and onboarding them to Microsoft Defender for Endpoints for security monitoring. In addition, you'll be creating a new user account with Microsoft 365 E5 (no Teams) and installing the Microsoft 365 apps on Windows 11 virtual machines.
 
 **Objectives**
 
 - To assign the Owner role to the Azure subscription.
 
-- To create a Windows Server virtual machine (**testserver1**) and
-  onboard it to Microsoft Defender for Endpoints for security
-  monitoring.
+- To create a Windows Server virtual machine (**testserver1**) and onboard it to Microsoft Defender for Endpoints for security monitoring.
 
-- To create a Windows 11 Pro virtual machine (**testVM1**) and onboard
-  it to Microsoft Defender for Endpoints for security monitoring.
+- To create a Windows 11 Pro virtual machine (**testVM1**) and onboard it to Microsoft Defender for Endpoints for security monitoring.
 
-- To create another Windows 11 Pro virtual machine (**testVM2**) and
-  onboard it to Microsoft Defender for Endpoints for security
-  monitoring.
+- To create another Windows 11 Pro virtual machine (**testVM2**) and onboard it to Microsoft Defender for Endpoints for security monitoring.
 
-- To create a new user account (**Robert Frost**) with Microsoft 365 E5
-  and Microsoft teams enterprise licenses for testing purposes.
+- To create a new user account (**Robert Frost**) with Microsoft 365 E5 (no Teams) license for testing purposes.
 
-- To prepare the testvm1 virtual machine for upcoming tasks, including
-  installing Microsoft 365 apps.
+- To prepare the testvm1 virtual machine for upcoming tasks, including installing Microsoft 365 apps.
 
 ## **Task 0: Sync Host environment time**
 
