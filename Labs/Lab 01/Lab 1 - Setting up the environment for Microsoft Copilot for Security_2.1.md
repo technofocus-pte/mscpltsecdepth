@@ -48,9 +48,11 @@ In this lab, you'll be configuring the environment that includes creation of Win
 ## **Task 0: Sync Host environment time**
 
 1.  Login to the Lab Virtual Machine using the credentials provided on
-    the Home tab of the Lab interface.
+    the Resources tab of the Lab interface.
 
-2.  In your VM, navigate and click in the **Search bar**, type
+    ![](./media/image1a.png)
+    
+3.  In your VM, navigate and click in the **Search bar**, type
     `Settings` and then click on **Settings** under **Best match**.
     ![](./media/image1.png)
 
