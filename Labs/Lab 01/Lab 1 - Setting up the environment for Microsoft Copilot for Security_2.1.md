@@ -288,7 +288,7 @@ Gen2** from the dropdown.
 
 **Note**: If you encounter the following error - **This size is not
 available in zone 1 . Zones ‘2,3’ are supported”**, then scroll up and
-uncheck Zone 1, check Zone 2 or 3 box.
+uncheck Zone 1, check Zone 2 **or** 3 box. Please note you need to select either Zone 2 or Zone 3, but not both.
 
 5.  Navigate to **Size** field and click on **See all sizes**.
     In **Select a VM size** page, navigate and select **B2ms**, then
@@ -667,11 +667,13 @@ generated](./media/image103.png)
 3.  In **Create a virtual machine**, under the **Resource group** field,
     select **MCS-RS** resource group. Then, navigate to **Instance
     details** section, in the **Virtual machine name** field,
-    enter **testvm2**. In
+    enter +++**testvm2**+++. In
     the **Region** field, ensure **Southeast Asia** region is selected.
 
  ![A screenshot of a computer Description automatically
  generated](./media/image104.png)
+
+**Note**: Ensure that you select the same zone that was chosen in the previous task.
 
 5.  In the **Security type** field, click on the dropdown and select
     **Standard**. In the **Image** field, select **Windows 11 Pro,
@@ -747,7 +749,7 @@ generated](./media/image111.png)
  generated](./media/image113.png)
 
 14. On **Enter your credentials** dialog box, enter the password (here,
-    +++**Administrator5801@***+++) and click on the **OK** button.
+    +++**Administrator5801@#**+++) and click on the **OK** button.
 
 ![A screenshot of a computer screen Description automatically
 generated](./media/image114.png)
@@ -824,7 +826,7 @@ generated](./media/image121.png)
 ## Task 6: Create test account using Microsoft Entra ID
 
 1.  Open a new tab and enter the following link:
-    **https://admin.microsoft.com/AdminPortal/#/homepage**
+    +++**https://admin.microsoft.com/AdminPortal/#/homepage**+++
 
 ![](./media/image122.png)
 
