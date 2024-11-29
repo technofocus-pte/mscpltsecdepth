@@ -45,6 +45,8 @@ In this lab, you'll be configuring the environment that includes creation of Win
 
 - To prepare the testvm1 virtual machine for upcoming tasks, including installing Microsoft 365 apps.
 
+**Important Note**: Please avoid using your **Company/Work Account** to log in and redeem the Azure Pass, as additional Azure Pass will not be issued.
+
 ## **Task 0: Sync Host environment time**
 
 1.  Login to the Lab Virtual Machine using the credentials provided on
@@ -52,26 +54,24 @@ In this lab, you'll be configuring the environment that includes creation of Win
 
     ![](./media/image1a.png)
     
-3.  In your VM, navigate and click in the **Search bar**, type
+2.  In your VM, navigate and click in the **Search bar**, type
     `Settings` and then click on **Settings** under **Best match**.
     ![](./media/image1.png)
 
-&nbsp;
-
-2.  On Settings window, navigate and click on **Time & language**.
+3.  On Settings window, navigate and click on **Time & language**.
 
 ![](./media/image2.png)
 
-3.  On **Time & language** page, navigate and click on **Date & time**.
+4.  On **Time & language** page, navigate and click on **Date & time**.
 
 ![](./media/image3.png)
 
-4.  Scroll down and navigate to **Additional settings** section, then
+5.  Scroll down and navigate to **Additional settings** section, then
     click on **Syn now** button.
 
 ![](./media/image4.png)
 
-5.  Close the **Settings** window.
+6.  Close the **Settings** window.
 
 ![](./media/image5.png)
 
@@ -89,8 +89,10 @@ generated](./media/image7.jpeg)
 **Note**: Do not use your Company/Work Account to login to redeem the
 Azure Pass, another Azure Pass will not be issued.
 
-4.  In the **Sign in** window, enter the **Office 365 Tenant ID** -
-    <admin@WWLxxxx.onmicrosoft.com and click on the **Next** button.
+4.  In the **Sign in** window, enter the **Office 365 Tenant ID** provided in the **Resources** tab -
+    <admin@WWLxxxx.onmicrosoft.com and click on the **Next** button as shown in the below images.
+
+![](./media/image2a.png)
 
 ![](./media/image8.png)
 
