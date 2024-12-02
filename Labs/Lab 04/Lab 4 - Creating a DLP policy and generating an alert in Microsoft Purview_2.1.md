@@ -60,7 +60,7 @@ intelligence gathering. For more information about what it can do
 
 3.  Open a new tab in the Edge browser address bar and enter the
     following
-    URL: [**https://purview.microsoft.com/**](urn:gd:lg:a:send-vm-keys).
+    URL: +++**https://purview.microsoft.com/**+++
     If prompted, then sign in with your O365 tenant credentials. 
     On **Welcome to the new Microsoft Purview portal!** dialog box,
     agree to the terms and conditions, then click on the **Get
