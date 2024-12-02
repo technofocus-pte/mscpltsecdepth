@@ -1,9 +1,8 @@
-**Lab 04 - Creating a DLP policy and generating an alert in Microsoft
-Purview**
+## **Lab 04 - Creating a DLP policy and generating an alert in Microsoft Purview**
 
 ### Introduction
 
-Microsoft Copilot for Security is a cloud-based AI platform that can
+Microsoft Security Copilot is a cloud-based AI platform that can
 assist you in identifying, summarizing, triaging, and remediating alerts
 and events in Microsoft Purview for:
 
@@ -24,7 +23,7 @@ intelligence gathering. For more information about what it can do
 - To create a Microsoft Purview account.
 
 - To create custom Data Loss Prevention (DLP) policies for Microsoft
-  Copilot for Security.
+  Security Copilot.
 
 - To test the effectiveness of the DLP policy by sending simulated
   credit card information to a specific user in Microsoft Teams,
@@ -46,7 +45,11 @@ intelligence gathering. For more information about what it can do
 3.  In the **Create Microsoft Purview account** page, enter the
     following details and click on **Review + Create** button.
 
-[TABLE]
+    |Subscription |Azure Pass |
+    |---|---|
+    |Resource group |**MCS-RG** |
+    |Microsoft Purview account name |Enter the name of your choice (here, we entered **securitycopilot2**) |
+    |Location |**West Central US** |
 
 > ![](./media/image3.png)
 
@@ -71,7 +74,7 @@ intelligence gathering. For more information about what it can do
 > ![A screenshot of a computer Description automatically
 > generated](./media/image6.png)
 
-### Task 2: Setting Custom DLP policies for Microsoft Copilot for Security
+### Task 2: Setting Custom DLP policies for Microsoft Security Copilot
 
 1.  In the **Microsoft Purview** portal, navigate to **Solutions**, then
     click on **Data loss prevention** as shown in the below image.
@@ -238,16 +241,50 @@ generated](./media/image28.png)
 > +++Debit Card Account number: MasterCard 5439683992731720+++
 >
 > ![](./media/image35.png)
->
+
+
+6. Copy all the credit card information that you have sent in the Teams.
+
+    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/ac1f9654-72f4-4d7b-a7e9-ad070cd3d338.png)
+
+7. Open a notepad and paste the credit card information in it as shown in the below image.
+
+    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/796da5a4-c22c-4c78-b5a9-3ba294000910.png)
+
+8.  Save the notepad file on the desktop.
+
+    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/41939043-e93e-42a7-a459-cf8b5e4daf81.png)
+
+9.  In the Microsoft Edge browser search bar, type !!one drive login!! then click on **Sign in - Microsoft OneDrive**
+
+    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/44613a66-cd7c-4a86-863b-820c3b74ac62.png)
+
+10. Login to OneDrive using your credentials.
+
+    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/0d5f9313-ace6-4bfc-a484-98aa60fadf26.png)
+
+11.  Click on the **+** Symbol and then click on **Files upload**.
+
+    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/29b344e3-4613-4a6b-8616-85d463dd8cd8.png)
+
+12.  Go back to **Microsoft Purview** portal. In the **Data Loss Prevention** section, navigate and click on **Alerts**, you'll see the Alerts stating -- **DLP policy match for document 'Katie Jordan.txt' in OneDrive** along with the **Severity** and **Status** of the alerts.
+
+            ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/bf19f608-1aa5-4fba-a205-79c03c7d288d.png)
+
+            ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/bf00f557-7610-4d36-bb5d-b04e032f7095.png)
+
+
+**Note**: Sometimess alert generation can take up to 30-60 minutes. 
+
 > **Note**: You’ll analyze the alerts generated through the Custom DLP
-> policy using Microsoft Copilot for Security in the upcoming task. As
+> policy using Microsoft Security Copilot in the upcoming task. As
 > the SCU consume a lot of credits; therefore, to prevent unnecessary
 > credit loss, we’ve moved this task in the next lab.
 
 **APPENDIX**
 
 1.  In case you did not see the alerts, then click on **Policies**,
-    select **Custom Policy for Microsoft Copilot for Security**, then
+    select **Custom Policy for Microsoft Security Copilot**, then
     click on the **Edit** icon as shown in the below image.
 
 ![A screenshot of a computer Description automatically
@@ -269,7 +306,7 @@ generated](./media/image38.png)
 
 In this lab, you’ve set up a Microsoft Purview account, then you’ve
 configured custom Data Loss Prevention (DLP) policies for Microsoft
-Copilot for Security, and created alerts in Microsoft Teams to test the
+Security Copilot, and created alerts in Microsoft Teams to test the
 effectiveness of these policies. This hands-on exercise has equipped you
 with valuable skills in data protection and compliance management within
 Microsoft's ecosystem, enhancing your understanding of security measures
