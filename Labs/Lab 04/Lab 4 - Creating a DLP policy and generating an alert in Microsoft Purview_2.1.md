@@ -69,7 +69,11 @@ intelligence gathering. For more information about what it can do
 > ![A screenshot of a computer Description automatically
 > generated](./media/image5.png)
 
-4.  You'll be directed to Microsoft Purview portal.
+4. In case, Important changes to our business and pricing model dialog box appears, then navigate and click on **I consent** button at the bottom. 
+
+(./media/image11a.png)
+
+5.  You'll be directed to Microsoft Purview portal.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image6.png)
