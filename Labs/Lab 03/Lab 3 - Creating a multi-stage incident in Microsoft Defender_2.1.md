@@ -204,7 +204,7 @@ generated](./media/image29.png)
 ![A computer screen with white text Description automatically
 generated](./media/image32.png)
 
-2.  Navigate to **C:UsersAdmin5802**, then click on **examples**
+2.  Navigate to **C:\Users\Admin5802**, then click on **examples**
     folder as shown in the below image.
 
 ![A screenshot of a computer Description automatically
@@ -310,7 +310,7 @@ error.
 
 16. Run the following command:
 
- +++**.wdtestfile.exe**+++
+ +++**.\wdtestfile.exe**+++
 
  ![](./media/image48.png)
 
