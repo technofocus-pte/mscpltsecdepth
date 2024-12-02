@@ -301,7 +301,7 @@ error.
 
  ![Screenshot](./media/image46.png)
 
-15. Type [**ls**](urn:gd:lg:a:send-vm-keys) to get the list of the
+15. Type +++**ls**+++ to get the list of the
     scripts in the folder. Then, execute the following script:
 
  +++**./SQLDumper.exe**+++
@@ -366,7 +366,7 @@ generated](./media/image52.png)
 ![](./media/image55.png)
 
 7.  On the **New User Variable** dialog box, in the **Variable
-    name** field, enter +++**Extension+++**,
+    name** field, enter +++**Extension**+++,
     and in the **Variable value** field,
     enter +++**.encrypted+++**. Then, click
     on the **OK** button.
@@ -396,8 +396,7 @@ generated](./media/image57.png)
     name** field, enter +++**TargetFiles**+++, and in the **Variable
     value** field, enter
 
-+++.pdf .xls* .ppt* .doc* .accd* .rtf .txt .csv .jpg .jpeg .png .gif
-.avi .midi .mov mp3 .mp4 .mpeg .mpeg2 .mpeg3 .mpg .ogg+++
++++.pdf .xls* .ppt* .doc* .accd* .rtf .txt .csv .jpg .jpeg .png .gif .avi .midi .mov mp3 .mp4 .mpeg .mpeg2 .mpeg3 .mpg .ogg+++
 
 Then, click on the **OK** button.
 
