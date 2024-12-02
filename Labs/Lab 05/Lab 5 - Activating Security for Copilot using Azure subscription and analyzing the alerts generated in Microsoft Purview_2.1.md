@@ -1,9 +1,8 @@
-**Lab 5 - Activating Security for Copilot using Azure subscription and
-analyzing the alerts generated in Microsoft Purview**
+## **Lab 5 - Activating Security for Copilot using Azure subscription and analyzing the alerts generated in Microsoft Purview**
 
 **Introduction**
 
-Copilot for Security is a generative AI security product that empowers
+Security Copilot is a generative AI security product that empowers
 security and IT professionals respond to cyber threats, process signals,
 and assess risk exposure at the speed and scale of AI. In this lab,
 you’ll be activating Security for Copilot utilizing Azure subscription
@@ -11,22 +10,22 @@ and analyzing the alerts generated in Microsoft Purview.
 
 **Objectives**
 
-- To set up Microsoft Copilot for Security capacity in Azure portal.
+- To set up Microsoft Security Copilot capacity in Azure portal.
 
 - To change the SCU units.
 
 - To analyze the Custom DLP Policy Alert using Microsoft Copilot for
   Security
 
-**Task 1: Setting up Microsoft Copilot for Security capacity in Azure
+**Task 1: Setting up Microsoft Security Copilot capacity in Azure
 portal**
 
-1. In the Microsoft Azure portal search bar, type **Microsoft Copilot
-for Security compute capacity** and then click on it.
+1. In the Microsoft Azure portal search bar, type +++**Microsoft Copilot
+for Security compute capacity**+++ and then click on it.
 
 ![](./media/image1.png)
 
-2. In **Microsoft Copilot for Security compute capacity** window, click
+2. In **Microsoft Security Copilot compute capacity** window, click
 on **+ Create.**
 
 ![A screenshot of a computer Description automatically
@@ -69,7 +68,7 @@ Security compute capacities**, navigate and click on it.
 ![A screenshot of a computer Description automatically
 generated](./media/image8.png)
 
-9. In the **SCU5801** Microsoft Copilot for Security compute capacity
+9. In the **SCU5801** Microsoft Security Copilot compute capacity
 page, navigate and click on **Access control (IAM)**.
 
 ![A screenshot of a computer Description automatically
@@ -133,7 +132,7 @@ as shown in the below image.
 ![A screenshot of a computer Description automatically
 generated](./media/image20.png)
 
-20. You’ll be directed **to Microsoft Copilot for Security** page. If
+20. You’ll be directed **to Microsoft Security Copilot** page. If
 you see a dialog box – **Are you familiar with cookies?**, then click on
 the **Accept** button.
 
@@ -172,18 +171,18 @@ generated](./media/image27.png)
 
 ![](./media/image28.png)
 
-27. Microsoft Copilot for Security is successfully activated.
+27. Microsoft Security Copilot is successfully activated.
 
 ![](./media/image29.png)
 
 **Task 2: Changing SCU units**
 
-While using the prompt in Microsoft Copilot for Security, you will
+While using the prompt in Microsoft Security Copilot, you will
 encounter a message stating that your SCU units have been consumed and
 you need to increase the SCU units. In this task, you will learn how to
-increase the SCU units in Microsoft Copilot for Security Standalone.
+increase the SCU units in Microsoft Security Copilot Standalone.
 
-1.  In Microsoft Copilot for Security window, click on the three
+1.  In Microsoft Security Copilot window, click on the three
     horizontal ellipsis and click on **Owner settings**.
 
 ![A screenshot of a computer Description automatically
@@ -206,16 +205,16 @@ generated](./media/image31.png)
  ![A screenshot of a computer Description automatically
  generated](./media/image33.png)
 
- 5. Click on **Microsoft Copilot for Security** at the top bar of the
+ 5. Click on **Microsoft Security Copilot** at the top bar of the
  window as shown in the below image.
 
  ![A screenshot of a computer Description automatically
  generated](./media/image34.png)
 
  **Task 3: Analyzing the Custom DLP Policy Alert using Microsoft
- Copilot for Security**
+ Security Copilot**
 
-1.  In Microsoft Copilot for Security Standalone, navigate and click on
+1.  In Microsoft Security Copilot Standalone, navigate and click on
     **Source** icon beside the prompt bar as shown in the below image.
 
  ![](./media/image35.png)
@@ -245,7 +244,7 @@ generated](./media/image31.png)
 
  ![](./media/image40.png)
 
-6.  Go back to Microsoft Copilot for Security Standalone mode and enter
+6.  Go back to Microsoft Security Copilot Standalone mode and enter
     the following prompt:
 
 +++**Which Purview Data Loss Prevention alerts should I prioritize
@@ -260,7 +259,7 @@ today?**+++
 
 **Summary**
 
-In this lab, you’ve configured Microsoft Copilot for Security capacity
+In this lab, you’ve configured Microsoft Security Copilot capacity
 in Azure portal and learned how to increase the SCU units. Then, you’ve
 analyzed the Custom DLP Policy Alert using Microsoft Copilot for
 Security.
