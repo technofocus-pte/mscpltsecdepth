@@ -253,30 +253,40 @@ generated](./media/image28.png)
 >
 > ![](./media/image35.png)
 
-
 6. Copy all the credit card information that you have sent in the Teams.
 
-    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/ac1f9654-72f4-4d7b-a7e9-ad070cd3d338.png)
+  ![](./media/r1.png)
 
 7. Open a notepad and paste the credit card information in it as shown in the below image.
 
-    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/796da5a4-c22c-4c78-b5a9-3ba294000910.png)
+    ![](./media/r2.png)
 
 8.  Save the notepad file on the desktop.
 
-    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/41939043-e93e-42a7-a459-cf8b5e4daf81.png)
+    ![](./media/r3.png)
 
 9.  In the Microsoft Edge browser search bar, type !!one drive login!! then click on **Sign in - Microsoft OneDrive**
 
-    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/44613a66-cd7c-4a86-863b-820c3b74ac62.png)
+    ![](./media/r4.png)
 
 10. Login to OneDrive using your credentials.
 
-    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/0d5f9313-ace6-4bfc-a484-98aa60fadf26.png)
+    ![](./media/r5.png)
 
-11.  Click on the **+** Symbol and then click on **Files upload**.
+    ![](./media/r6.png)
 
-    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/29b344e3-4613-4a6b-8616-85d463dd8cd8.png)
+12.  Click on the **+** Symbol and then click on **Files upload**.
+
+    ![](./media/r7.png)
+
+    ![](./media/r8.png)
+
+13. In OneDrive, click on the folder icon in the left-sided menu, you'll see that file containing sensitive information is successfully uploaded.
+    ![](./media/r9.png)
+
+
+**Note**: Sometimess alert generation can take up to 30-60 minutes. 
+
 
 12.  Go back to **Microsoft Purview** portal. In the **Data Loss Prevention** section, navigate and click on **Alerts**, you'll see the Alerts stating -- **DLP policy match for document 'Katie Jordan.txt' in OneDrive** along with the **Severity** and **Status** of the alerts.
 
@@ -284,8 +294,6 @@ generated](./media/image28.png)
 
             ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/bf00f557-7610-4d36-bb5d-b04e032f7095.png)
 
-
-**Note**: Sometimess alert generation can take up to 30-60 minutes. 
 
 > **Note**: You’ll analyze the alerts generated through the Custom DLP
 > policy using Microsoft Security Copilot in the upcoming task. As
