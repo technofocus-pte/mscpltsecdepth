@@ -419,12 +419,13 @@ generated](./media/image61.png)
 ![A screenshot of a computer Description automatically
 generated](./media/image62.png)
 
+
 15.  In the command prompt, execute the following command to initiate a
     ransomware attack. In case, the attack failed to execute
     successfully and showed an error, then ignore and move on to the
     next step.
 
-+++**.RanSim.ps1 -Mode encrypt**+++
++++**.\RanSim.ps1 -Mode encrypt**+++
 
 ![A screenshot of a computer Description automatically
 generated](./media/image63.png)
