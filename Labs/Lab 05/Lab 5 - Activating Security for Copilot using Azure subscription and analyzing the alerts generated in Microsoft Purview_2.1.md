@@ -203,30 +203,26 @@ generated](./media/c14.png)
 
 4.  On **9 capacity units are now available to use** dialog box, click
     on the **Done** button.
-
  ![A screenshot of a computer Description automatically
  generated](./media/image33.png)
 
- 5. Click on **Microsoft Security Copilot** at the top bar of the
- window as shown in the below image.
+5. Click on **Microsoft Security Copilot** at the top bar of the window as shown in the below image.
 
  ![A screenshot of a computer Description automatically
  generated](./media/c15.png)
 
- **Task 3: Analyzing the Custom DLP Policy Alert using Microsoft
- Security Copilot**
+**Task 3: Analyzing the Custom DLP Policy Alert using Microsoft Security Copilot**
 
-1.  In Microsoft Security Copilot Standalone, navigate and click on
-    **Source** icon beside the prompt bar as shown in the below image.
+1. In Microsoft Security Copilot Standalone, navigate and click on **Source** icon beside the prompt bar as shown in the below image.
 
- ![](./media/image35.png)
+ ![](./media/c16.png)
 
 2.  Click on **Show 9 more**, then navigate to **Microsoft Purview** and
     ensure that the toggle is turned on as shown in the below images.
 
- ![](./media/image36.png)
+ ![](./media/c17.png)
 
- ![](./media/image37.png)
+ ![](./media/c18.png)
 
 3.  Go back to Microsoft Purview. In the **Data Loss Prevention**
     section, navigate and click on **Alerts**, you’ll see the Alerts
