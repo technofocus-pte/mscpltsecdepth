@@ -71,7 +71,7 @@ intelligence gathering. For more information about what it can do
 
 4. In case, Important changes to our business and pricing model dialog box appears, then navigate and click on **I consent** button at the bottom. 
 
-(./media/image11a.png)
+> ![](./media/image11a.png)
 
 5.  You'll be directed to Microsoft Purview portal.
 
