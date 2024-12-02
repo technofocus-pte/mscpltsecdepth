@@ -396,7 +396,7 @@ generated](./media/image57.png)
     name** field, enter +++**TargetFiles**+++, and in the **Variable
     value** field, enter
 
-+++.pdf .xls* .ppt* .doc* .accd* .rtf .txt .csv .jpg .jpeg .png .gif .avi .midi .mov mp3 .mp4 .mpeg .mpeg2 .mpeg3 .mpg .ogg+++
++++.pdf .xls* .ppt* .doc* .accd* .rtf .txt .csv .jpg .jpeg .png .gif+++
 
 Then, click on the **OK** button.
 
