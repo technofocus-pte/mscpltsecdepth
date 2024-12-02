@@ -355,7 +355,7 @@ generated](./media/image52.png)
 5.  On the **New User Variable** dialog box, in the **Variable
     name** field, enter +++**TargetPath+++**, and in the **Variable
     value** field,
-    enter +++**C:\RanSim+++**, then press
+    enter +++**C:\RanSim**+++, then press
     the **OK** button.
 
 ![](./media/image54.png)
@@ -408,7 +408,7 @@ Then, click on the **OK** button.
 ![A screenshot of a computer Description automatically
 generated](./media/image61.png)
 
-13.  In **testvm1** virtual machine, navigate to **C:UsersAdmin5802**
+13.  In **testvm1** virtual machine, navigate to **C:\Users\Admin5802**
     and copy the **RanSim** folder, then paste the folder in **C:**
 
 14.  Open **RanSim** folder. Click anywhere inside the folder, then right
