@@ -221,7 +221,7 @@ generated](./media/image30.png)
 
 ![](./media/image34.png)
 
-6.  Select MylogworkspaceXXXX workspace and click on the **Next**
+6.  Select **mylogworkspaceXXXX** workspace and click on the **Next**
     button.
 
 ![](./media/image35.png)
