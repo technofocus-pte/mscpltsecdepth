@@ -219,7 +219,6 @@ generated](./media/image28.png)
     the Credit Card along with the number and send that information in
     team to Robert Frost.
 
-
     |**Credit Card Type** |**Credit Card Number** |
     |---|---|
     |+++American Express+++ |+++378282246310005+++ |
@@ -228,6 +227,11 @@ generated](./media/image28.png)
     |+++Visa+++ |+++4012888888881881+++ |
 
 
+> ![](./media/image12a.png)
+>
+> ![](./media/image13a.png)
+> 
+> ![](./media/image14a.png)
 
 4.  In the **Data Loss Prevention** section, navigate and click on
     **Alerts**, you’ll see the Alerts stating – **DLP policy match for
