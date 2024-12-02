@@ -435,7 +435,7 @@ generated](./media/image63.png)
 **Task 4: Checking protection action and recommendations from Windows
 Security**
 
-1.  In **testvm1** search bar, type **virus and threat protection**,
+1.  In **testvm1** search bar, type +++**virus and threat protection**+++,
     then navigate and click on **Virus & threat protection** under
     **Best match** as shown in the below image.
 
