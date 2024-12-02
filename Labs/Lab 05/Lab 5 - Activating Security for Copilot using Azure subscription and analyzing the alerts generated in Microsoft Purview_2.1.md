@@ -188,13 +188,13 @@ increase the SCU units in Microsoft Security Copilot Standalone.
     horizontal ellipsis and click on **Owner settings**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image30.png)
+generated](./media/c13.png)
 
 2.  Navigate to **Security compute units** and click on the **Change**
     button.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image31.png)
+generated](./media/c14.png)
 
 3.  Select **9** Security compute units and click on the **Apply**
     button.
@@ -211,7 +211,7 @@ generated](./media/image31.png)
  window as shown in the below image.
 
  ![A screenshot of a computer Description automatically
- generated](./media/image34.png)
+ generated](./media/c15.png)
 
  **Task 3: Analyzing the Custom DLP Policy Alert using Microsoft
  Security Copilot**
