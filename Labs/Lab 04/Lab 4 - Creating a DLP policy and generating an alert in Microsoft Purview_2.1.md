@@ -128,10 +128,12 @@ generated](./media/image11.png)
 generated](./media/image13.png)
 
 8.  On **Customized advanced DLP rules** pane, click on **+ Create
-    rule**.![](./media/image14.png)
+    rule**
 
-9.  On the **Create rule** page, in the **Name** field, enter
-    **Sensitive Information of Credit Card**.
+![](./media/image14.png)
+
+10.  On the **Create rule** page, in the **Name** field, enter
+    +++**Sensitive Information of Credit Card**+++.
 
 ![](./media/image15.png)
 
@@ -139,7 +141,9 @@ generated](./media/image13.png)
     condition**, then select **Content contains** as shown in the below
     image.
 
-![](./media/image16.png) 11. In the **Content contains** section, leave
+![](./media/image16.png) 
+
+11. In the **Content contains** section, leave
 **Group name** and **Group operator** in default state, click on the
 dropdown beside **Add** and select **Sensitive info types** as shown in
 the below image.
@@ -200,7 +204,7 @@ generated](./media/image28.png)
 
 ### Task 3: Creating an alert in Microsoft Teams
 
-1.  Click on the horizontal dots beside **Microsoft Purview**, then
+1.  Click on the launcher beside **Microsoft Purview**, then
     navigate and click on **Teams** as shown in the below image.
 
 > ![](./media/image29.png)
@@ -215,16 +219,15 @@ generated](./media/image28.png)
     the Credit Card along with the number and send that information in
     team to Robert Frost.
 
-[TABLE]
 
-> You’ll observe that your message was flagged every time.
->
-> ![](./media/image31.png)
->
-> ![A screenshot of a computer Description automatically
-> generated](./media/image32.png)
->
-> ![](./media/image33.png)
+    |**Credit Card Type** |**Credit Card Number** |
+    |---|---|
+    |+++American Express+++ |+++378282246310005+++ |
+    |+++JCB+++ |+++3566002020360505+++ |
+    |+++MasterCard+++ |+++5105105105105100+++ |
+    |+++Visa+++ |+++4012888888881881+++ |
+
+
 
 4.  In the **Data Loss Prevention** section, navigate and click on
     **Alerts**, you’ll see the Alerts stating – **DLP policy match for
