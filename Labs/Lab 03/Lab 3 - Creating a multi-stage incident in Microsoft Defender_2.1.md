@@ -355,7 +355,7 @@ generated](./media/image52.png)
 5.  On the **New User Variable** dialog box, in the **Variable
     name** field, enter +++**TargetPath+++**, and in the **Variable
     value** field,
-    enter +++**[C:RanSim](urn:gd:lg:a:send-vm-keys)+++**, then press
+    enter +++**C:\RanSim+++**, then press
     the **OK** button.
 
 ![](./media/image54.png)
