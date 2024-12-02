@@ -145,25 +145,37 @@ selected **SCU5801**), then click on the **Continue** button.
 23. In **Your Customer Data will be stored in United States** page,
 click on the **Continue** button.
 
-![](./media/image25.png)
+![](./media/c4.png)
 
 24. In **Help improve Copilot** page, click on the Continue button.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image26.png)
+generated](./media/c6.png)
 
-25. Click on **Continue** button.
+25. On **Accessing Data from Microsoft 365 services** page, click on **Continue** button.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image27.png)
+generated](./media/c7.png)
+
+25. On **Logging audit data in Microsoft Purview** page, click on **Continue** button.
+
+![A screenshot of a computer Description automatically
+generated](./media/c8.png)
+
+26. On the next page, click on **Continue** button.
+
+![A screenshot of a computer Description automatically
+generated](./media/c9.png)
 
 26. In **You’re all set** page, click on the **Finish** button.
 
-![](./media/image28.png)
+![](./media/c10.png)
+
+![](./media/c11.png)
 
 27. Microsoft Security Copilot is successfully activated.
 
-![](./media/image29.png)
+![](./media/c12.png)
 
 **Task 2: Changing SCU units**
 
