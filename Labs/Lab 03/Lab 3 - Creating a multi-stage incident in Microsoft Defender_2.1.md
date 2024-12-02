@@ -1,4 +1,4 @@
-**Lab 3: Creating a multi-stage incident in Microsoft Defender**
+## **Lab 3: Creating a multi-stage incident in Microsoft Defender**
 
 **Introduction**
 
@@ -20,7 +20,7 @@ Microsoft Copilot for Security.
 
 ## **Task 1: Install git and download the payloads on testvm1**
 
- 1. In the Azure portal search bar, type virtual machine, then
+ 1. In the Azure portal search bar, type +++**virtual machine**+++, then
  navigate and click on **Virtual machines** under **Services**.
 
 ![A screenshot of a computer Description automatically
@@ -60,7 +60,7 @@ generated](./media/image4.png)
  generated](./media/image7.png)
 
 7.  On **Enter your credentials** dialog box, enter the password (here,
-    **Administrator5801@***) and click on the **OK** button.
+    **Administrator5801@#**) and click on the **OK** button.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image8.png)
@@ -72,7 +72,7 @@ generated](./media/image8.png)
 generated](./media/image9.png)
 
 9.  Open the Edge browser, navigate to the address bar and enter the
-    following link: **https://git-scm.com/downloads**
+    following link: +++**https://git-scm.com/downloads**+++
 
 ![](./media/image10.png)
 
@@ -197,7 +197,7 @@ generated](./media/image29.png)
 1.  In **Git Bash**, execute the following command to download
     **examples** folder containing various malware files and scripts.
 
-**git clone https://github.com/directorcia/examples**
++++**git clone https://github.com/directorcia/examples**+++
 
 ![](./media/image31.png)
 
@@ -304,13 +304,13 @@ error.
 15. Type [**ls**](urn:gd:lg:a:send-vm-keys) to get the list of the
     scripts in the folder. Then, execute the following script:
 
- +++[**./SQLDumper.exe**](urn:gd:lg:a:send-vm-keys)+++
+ +++**./SQLDumper.exe**+++
 
  ![](./media/image47.png)
 
 16. Run the following command:
 
- +++[**.wdtestfile.exe**](urn:gd:lg:a:send-vm-keys)+++
+ +++**.wdtestfile.exe**+++
 
  ![](./media/image48.png)
 
@@ -331,7 +331,7 @@ on the system you execute it on.
 
 1.  Download the RanSim folder in testvm1 using the following script:
 
-**git clone https://github.com/lawndoc/RanSim.git**
++++**git clone https://github.com/lawndoc/RanSim.git**+++
 
 ![](./media/image50.png)
 
