@@ -49,7 +49,7 @@ trial**
     |**Subscription** |Select the assigned **Azure Pass -- Sponsorship** |
     |---|---|
     |**Resource Group** |Select the resource group that you've created previously. |
-    |**Name** |Mylogworkspace+SUFFIX (here, we entered **mylogworkspace5801**) |
+    |**Name** |mylogworkspace+SUFFIX (here, we entered **mylogworkspace5801**) |
     |**Region** |Southeast Asia |
 
  ![](./media/image9a.png)
@@ -69,8 +69,7 @@ generated](./media/image6.png)
 
 7.  Select the workspace, then click on the **Add** button.
 
-![A screenshot of a computer Description automatically
-generated](./media/image7.png)
+(./media/image10a.png)
 
 8.  On Microsoft Sentinel free trial activated dialog box, click on the
     **OK** button.
@@ -90,7 +89,7 @@ capabilities**
 ![A screenshot of a computer Description automatically
 generated](./media/image10.png)
 
-2.  In the **content hub** search bar, type **defender for endpoint**
+2.  In the **content hub** search bar, type +++**defender for endpoint**+++
     and press the enter button.
 
  ![A screenshot of a computer Description automatically
@@ -135,7 +134,7 @@ generated](./media/image10.png)
 
 7.  Click on **Microsoft Sentinel | Content hub** link below the Azure
     search bar as shown in the below image. In the **Microsoft Sentinel
-    | Content hub** page search bar, type **Microsoft Defender XDR** and
+    | Content hub** page search bar, type +++**Microsoft Defender XDR**+++ and
     press the enter button. Scroll down and select **Microsoft Defender
     XDR**.
 
@@ -203,7 +202,7 @@ generated](./media/image30.png)
 **Task 3: Connecting Microsoft Sentinel and Microsoft Defender XDR**
 
 1.  Open a new address bar and enter the following link to open the
-    Microsoft Defender Portal: **<https://security.microsoft.com**
+    Microsoft Defender Portal: +++**https://security.microsoft.com**+++
 
 2.  Select your O365 tenant ID.
 
