@@ -233,17 +233,12 @@ generated](./media/image28.png)
 > 
 > ![](./media/image14a.png)
 
-4.  In the **Data Loss Prevention** section, navigate and click on
-    **Alerts**, you’ll see the Alerts stating – **DLP policy match for
-    Teams conversation** along with the **Severity** and **Status** of
-    the alerts.
+4. Now, search and select a user named **Megan Bowen** and enter the above-mentioned information of credit cards, as shown in the below image.
 
-> ![](./media/image34.png)
+  ![](./media/r10.png)
 
-**Note**: Sometimes alert generation can take up to 30-60 minutes.
-
-5.  Enter the following data to trigger the alerts. Similarly, you can
-    enter random information in this format:
+5.  Now, send the following information to both Robert Frost and Megan Bowen to trigger another type of alerts. You can
+    also enter random information in this format:
 
 > +++Katie Jordan+++
 >
@@ -265,11 +260,11 @@ generated](./media/image28.png)
 
     ![](./media/r3.png)
 
-9.  In the Microsoft Edge browser search bar, type !!one drive login!! then click on **Sign in - Microsoft OneDrive**
+9.  In the Microsoft Edge browser search bar, type +++one drive login+++ then click on **Sign in - Microsoft OneDrive**
 
     ![](./media/r4.png)
 
-10. Login to OneDrive using your credentials.
+10. Login to OneDrive using your O365 admin credentials.
 
     ![](./media/r5.png)
 
@@ -284,9 +279,7 @@ generated](./media/image28.png)
 13. In OneDrive, click on the folder icon in the left-sided menu, you'll see that file containing sensitive information is successfully uploaded.
     ![](./media/r9.png)
 
-
-**Note**: Sometimess alert generation can take up to 30-60 minutes. 
-
+**Note**: Alert generation can take up to 30-60 minutes. 
 
 12.  Go back to **Microsoft Purview** portal. In the **Data Loss Prevention** section, navigate and click on **Alerts**, you'll see the Alerts stating -- **DLP policy match for document 'Katie Jordan.txt' in OneDrive** along with the **Severity** and **Status** of the alerts.
 
