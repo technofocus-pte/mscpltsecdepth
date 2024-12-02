@@ -17,13 +17,11 @@ and analyzing the alerts generated in Microsoft Purview.
 - To analyze the Custom DLP Policy Alert using Microsoft Copilot for
   Security
 
-**Task 1: Setting up Microsoft Security Copilot capacity in Azure
-portal**
+**Task 1: Setting up Microsoft Security Copilot capacity in Azure portal**
 
-1. In the Microsoft Azure portal search bar, type +++**Microsoft Copilot
-for Security compute capacity**+++ and then click on it.
+1. In the Microsoft Azure portal search bar, type +++**Microsoft Security Copilot compute capacities**+++ and then click on it.
 
-![](./media/image1.png)
+![](./media/m1.png)
 
 2. In **Microsoft Security Copilot compute capacity** window, click
 on **+ Create.**
@@ -57,10 +55,9 @@ generated](./media/image5.png)
 ![A screenshot of a computer Description automatically
 generated](./media/image6.png)
 
-7. Again, in the Azure portal search bar, type **Microsoft Copilot for
-Security compute capacities**, navigate and click on it.
+7. Again, in the Azure portal search bar, type **Microsoft Security Copilot compute capacities**, navigate and click on it.
 
-![](./media/image7.png)
+![](./media/m1.png)
 
 8. Click on the security capacity unit that you’ve deployed (here,
 **SCU5801**).
