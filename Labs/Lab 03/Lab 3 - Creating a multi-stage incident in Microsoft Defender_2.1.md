@@ -352,19 +352,7 @@ generated](./media/image52.png)
 
 ![](./media/image53.png)
 
-6.  In the next steps, you will be setting the following Parameters:
-
-    - TargetPath : **C:RanSim**
-
-    - Extension : **.encrypted**
-
-    - Key : **Q5KyUru6wn82hlY9k8xUjJOPIC9da41jgRkpt21jo2L=**
-
-    - TargetFiles : .pdf .xls* .ppt* .doc* .accd* .rtf .txt .csv
-      .jpg .jpeg .png .gif .avi .midi .mov mp3 .mp4 .mpeg .mpeg2 .mpeg3
-      .mpg .ogg
-
-7.  On the **New User Variable** dialog box, in the **Variable
+5.  On the **New User Variable** dialog box, in the **Variable
     name** field, enter +++**TargetPath+++**, and in the **Variable
     value** field,
     enter +++**[C:RanSim](urn:gd:lg:a:send-vm-keys)+++**, then press
@@ -372,39 +360,39 @@ generated](./media/image52.png)
 
 ![](./media/image54.png)
 
-8.  **TargetPath** variable is successfully added. Now, click on
+6.  **TargetPath** variable is successfully added. Now, click on
     the **New** button as shown in the below image.
 
 ![](./media/image55.png)
 
-8.  On the **New User Variable** dialog box, in the **Variable
-    name** field, enter +++**[Extension](urn:gd:lg:a:send-vm-keys)+++**,
+7.  On the **New User Variable** dialog box, in the **Variable
+    name** field, enter +++**Extension+++**,
     and in the **Variable value** field,
-    enter +++**[.encrypted](urn:gd:lg:a:send-vm-keys)+++**. Then, click
+    enter +++**.encrypted+++**. Then, click
     on the **OK** button.
 
 ![](./media/image56.png)
 
-9.  **Extension** variable is successfully added. Now, click on
+8.  **Extension** variable is successfully added. Now, click on
     the **New** button as shown in the below image.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image57.png)
 
-10. On the **New User Variable** dialog box, in the **Variable
-    name** field, enter +++**[Key](urn:gd:lg:a:send-vm-keys)+++**, and
+9. On the **New User Variable** dialog box, in the **Variable
+    name** field, enter +++**Key**+++, and
     in the **Variable value** field,
-    enter +++[**Q5KyUru6wn82hlY9k8xUjJOPIC9da41jgRkpt21jo2L=**](urn:gd:lg:a:send-vm-keys)+++
+    enter +++**Q5KyUru6wn82hlY9k8xUjJOPIC9da41jgRkpt21jo2L=**+++
     Then, click on the **OK** button.
 
 ![](./media/image58.png)
 
-11. **Key** variable is successfully added. Now, click on
+10. **Key** variable is successfully added. Now, click on
     the **New** button as shown in the below image.
 
 ![](./media/image59.png)
 
-12. On the **New User Variable** dialog box, in the **Variable
+11. On the **New User Variable** dialog box, in the **Variable
     name** field, enter +++**TargetFiles**+++, and in the **Variable
     value** field, enter
 
@@ -415,16 +403,16 @@ Then, click on the **OK** button.
 
 ![](./media/image60.png)
 
-13. **TargetFiles** variable is successfully added. Close
+12. **TargetFiles** variable is successfully added. Close
     the **Environment Variables** dialog box.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image61.png)
 
-5.  In **testvm1** virtual machine, navigate to **C:UsersAdmin5802**
+13.  In **testvm1** virtual machine, navigate to **C:UsersAdmin5802**
     and copy the **RanSim** folder, then paste the folder in **C:**
 
-6.  Open **RanSim** folder. Click anywhere inside the folder, then right
+14.  Open **RanSim** folder. Click anywhere inside the folder, then right
     click and select **Open in terminal**.
 
 **Note:** Please ensure that your RanSim folder is in C:
@@ -432,12 +420,12 @@ generated](./media/image61.png)
 ![A screenshot of a computer Description automatically
 generated](./media/image62.png)
 
-7.  In the command prompt, execute the following command to initiate a
+15.  In the command prompt, execute the following command to initiate a
     ransomware attack. In case, the attack failed to execute
     successfully and showed an error, then ignore and move on to the
     next step.
 
-**.RanSim.ps1 -Mode encrypt**
++++**.RanSim.ps1 -Mode encrypt**+++
 
 ![A screenshot of a computer Description automatically
 generated](./media/image63.png)
