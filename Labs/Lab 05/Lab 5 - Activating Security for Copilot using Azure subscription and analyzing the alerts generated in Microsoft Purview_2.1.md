@@ -47,7 +47,7 @@ generated](./media/image4.png)
 
 5. Click on the **Create** button.
 
-![A screenshot of a computer Description automatically
+![A screenshot of a computer Description automat cally
 generated](./media/image5.png)
 
 6. Click on **View resource** button.
@@ -55,12 +55,11 @@ generated](./media/image5.png)
 ![A screenshot of a computer Description automatically
 generated](./media/image6.png)
 
-7. Again, in the Azure portal search bar, type **Microsoft Security Copilot compute capacities**, navigate and click on it.
+7. Again, in the Azure portal search bar, type +++**Microsoft Security Copilot compute capacities**+++, navigate and click on it.
 
 ![](./media/m1.png)
 
-8. Click on the security capacity unit that you’ve deployed (here,
-**SCU5801**).
+8. Click on the security capacity unit that you’ve deployed (here, **SCU5801**).
 
 ![A screenshot of a computer Description automatically
 generated](./media/image8.png)
@@ -129,25 +128,19 @@ as shown in the below image.
 ![A screenshot of a computer Description automatically
 generated](./media/image20.png)
 
-20. You’ll be directed **to Microsoft Security Copilot** page. If
-you see a dialog box – **Are you familiar with cookies?**, then click on
-the **Accept** button.
-
-![](./media/image21.png)
-
 21. Click on **Get started** button.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image22.png)
+generated](./media/c1.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image23.png)
+generated](./media/c2.png)
 
 22. In **Select the capacity you’d like to use** page, click on the
 dropdown and select the SCU capacity that you’ve created (here, we
 selected **SCU5801**), then click on the **Continue** button.
 
-![](./media/image24.png)
+![](./media/c3.png)
 
 23. In **Your Customer Data will be stored in United States** page,
 click on the **Continue** button.
