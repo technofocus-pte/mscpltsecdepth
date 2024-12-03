@@ -30,13 +30,13 @@ TI.
 1.  In Microsoft Security Copilot Standalone, navigate and click on
     Source icon beside he prompt bar as shown in the below image.
 
- ![](./media/image1.png)
+ ![](./media/q11.png)
 
-2.  Ensure that the **Microsoft Defender Threat Intelligence** plugin is
+2.  Ensure that the **Microsoft Threat Intelligence** plugin is
     turned on.
 
  ![A screenshot of a computer Description automatically
- generated](./media/image2.png)
+ generated](./media/t1.png)
 
 3.  Enter the following prompt to obtain the latest threat related
     articles.
@@ -44,16 +44,22 @@ TI.
  +++**Show me the latest threat articles**+++
 
 ![A screenshot of a computer Description automatically
-generated](./media/image3.png)
+generated](./media/t2.png)
 
-4.  Carefully review the output. You can click on the Reference article
-    and read the full analysis report.
-
-![A screenshot of a computer Description automatically
-generated](./media/image4.png)
+4.  Carefully review the output. 
 
 ![A screenshot of a computer Description automatically
-generated](./media/image5.png)
+generated](./media/t3.png)
+
+5. You can click on the Reference article and read the full analysis report.
+   
+![A screenshot of a computer Description automatically generated](./media/t4.png)
+
+![A screenshot of a computer Description automatically generated](./media/t5.png)
+
+![A screenshot of a computer Description automatically generated](./media/t6.png)
+
+![A screenshot of a computer Description automatically generated](./media/t7.png)
 
 5.  Then, enter the following prompt:
 
