@@ -30,7 +30,7 @@ incident**
 1.  In Microsoft Copilot for Security Standalone, navigate and click on
     **Source** icon beside the prompt bar as shown in the below image.
 
-![](./media/image1.png)
+![](./media/q1.png)
 
 2.  Ensure that the **Microsoft Entra** plugin is turned on.
 
@@ -45,21 +45,27 @@ incident**
 +++**Get the Microsoft Entra user groups that bob@WWLxXXXXX.onmicrosoft.com is a member of. Put information in table format.**+++
 
 ![A screenshot of a computer Description automatically
-generated](./media/image3.png)
+generated](./media/q2.png)
 
-![](./media/image4.png)
+![](./media/q3.png)
 
-4. Use the follow up question suggested by copilot such as What licenses are assigned to the user bob@WWLxXXXXX.onmicrosoft.com
-  
-6.  Use the following prompt to obtain the specific user details involved in a security incident.
+4. Use the follow up question suggested by copilot such as **What licenses are assigned to the user bob@WWLxXXXXX.onmicrosoft.com**
+    
+![](./media/q4.png)
+
+5. Review the output.
+
+![](./media/q5.png)
+
+5.  Use the following prompt to obtain the specific user details involved in a security incident.
 
 +++**Give me all user details for bob@WWLxXXXXX.onmicrosoft.com and extract the user Object ID**+++
 
-![](./media/image5.png)
+![](./media/q6.png)
 
 5.  Click on **User Management page** link as shown in the below image.
 
-![](./media/image6.png)
+![](./media/q7.png)
 
 **Task 2: Disabling User account involved in a security incident**
 
