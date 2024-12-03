@@ -99,9 +99,19 @@ generated](./media/image9.png)
 
 ![](./media/image10.png)
 
-7.  Then, enter the following prompt - +++**Provide the key findings of script analysis**+++
+7.  Then, enter the following prompt - +++**Provide detailed insights from the script analysis, focusing on suspicious patterns or risky commands**+++
 
- ![](./media/image11.png)
+![](./media/d1.png)
+
+![](./media/d2.png)
+
+![](./media/d3.png)
+
+![](./media/d4.png)
+
+![](./media/d5.png)
+
+![](./media/d6.png)
 
 8.  Carefully review the key findings of script analysis.
 
@@ -114,33 +124,29 @@ generated](./media/image9.png)
 9.  In Microsoft Security Copilot Standalone, enter the following
     prompt to obtain the summary of the incident.
 
-+++**Provide me a summary of defender incident 5**+++
++++**Provide me a summary of defender incident 2**+++
 
-**Note**: Number #5 represent the Incident ID, you may have a different
+**Note**: Number #2 represent the Incident ID, you may have a different
 Incident ID. To know about your Incident ID, navigate to Microsoft
 Defender portal, click on Incidents and you will find the Incident ID in
 **Multi-stage incident involving Execution & Persistence on one
 endpoint** row.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image14.png)
+generated](./media/k4.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image15.png)
+generated](./media/k1.png)
 
 10. Carefully review the Incident summary.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image16.png)
+generated](./media/k2.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image17.png)
+generated](./media/k3.png)
 
-![A screenshot of a computer Description automatically
-generated](./media/image18.png)
-
-11. Then, enter the following prompt - +++**Extract the entities from
-    script analysis**+++
+11. Then, enter the following prompt - +++**Extract the entities from script analysis**+++
 
 ![A screenshot of a computer Description automatically
 generated](./media/image19.png)
