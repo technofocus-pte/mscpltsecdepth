@@ -1,5 +1,4 @@
-## **Lab 7 - Identity Risk Investigation and Mitigation with Microsoft
-Copilot for Security in Microsoft Entra**
+## **Lab 7 - Identity Risk Investigation and Mitigation with Microsoft Copilot for Security in Microsoft Entra**
 
 **Introduction**
 
@@ -53,7 +52,7 @@ generated](./media/image3.png)
 4.  Use the following prompt to obtain the specific user details
     involved in a security incident.
 
-+++ **Give me all user details for <bob@WWLxXXXXX.onmicrosoft.com and extract the user Object ID**+++
++++**Give me all user details for <bob@WWLxXXXXX.onmicrosoft.com and extract the user Object ID**+++
 
 ![](./media/image5.png)
 
