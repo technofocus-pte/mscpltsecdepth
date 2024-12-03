@@ -103,6 +103,9 @@ generated](./media/image9.png)
 
 ![](./media/d1.png)
 
+
+8.  Carefully review the key findings of script analysis.
+
 ![](./media/d2.png)
 
 ![](./media/d3.png)
@@ -112,14 +115,6 @@ generated](./media/image9.png)
 ![](./media/d5.png)
 
 ![](./media/d6.png)
-
-8.  Carefully review the key findings of script analysis.
-
- ![A screenshot of a computer Description automatically
- generated](./media/image12.png)
-
- ![A screenshot of a computer Description automatically
- generated](./media/image13.png)
 
 9.  In Microsoft Security Copilot Standalone, enter the following
     prompt to obtain the summary of the incident.
@@ -149,30 +144,29 @@ generated](./media/k3.png)
 11. Then, enter the following prompt - +++**Extract the entities from script analysis**+++
 
 ![A screenshot of a computer Description automatically
-generated](./media/image19.png)
+generated](./media/e1.png)
 
 12. Carefully review the extracted entities from script analysis.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image20.png)
+generated](./media/e2.png)
 
 13. Use the following prompt to generate a report about the incident.
 
 +++**Write a report summarizing the incident**+++
 
-![](./media/image21.png)
+![](./media/w1.png)
+
+14. Carefully review the report.
+     
+![A screenshot of a computer Description automatically
+generated](./media/w2.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image22.png)
+generated](./media/w3.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image23.png)
-
-![A screenshot of a computer Description automatically
-generated](./media/image24.png)
-
-![A screenshot of a computer Description automatically
-generated](./media/image25.png)
+generated](./media/w4.png)
 
 ### Task 3: Analyze files promptly
 
@@ -210,8 +204,7 @@ generated](./media/image27.png)
 ![A screenshot of a computer Description automatically
 generated](./media/image29.png)
 
-6.  Review the **File analysis** information provided by Copilot for
-    Security.
+6.  Review the **File analysis** information provided by Security Copilot.
 
 ![](./media/image30.png)
 
