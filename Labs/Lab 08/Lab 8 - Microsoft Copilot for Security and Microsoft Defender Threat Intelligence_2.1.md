@@ -1,9 +1,8 @@
-**Lab 8 -** Using Copilot for Security standalone portal to get threat
-intelligence 
+## **Lab 8 - Using Security Copilot standalone portal to get threat intelligence**
 
 **Introduction**
 
-Copilot for Security delivers information about threat actors,
+Security Copilot delivers information about threat actors,
 indicators of compromise (IOCs), tools, and vulnerabilities, as well as
 contextual threat intelligence from Microsoft Defender Threat
 Intelligence (Defender TI). You can use the prompts and promptbooks to
@@ -15,7 +14,7 @@ TI.
 **Objectives**
 
 - To explore and access threat-related articles utilizing Microsoft
-  Copilot for Security Standalone.
+  Security Copilot Standalone.
 
 - To obtain information about the Silk Typhoon threat actor and
   associated indicators of compromise (IOCs).
@@ -24,11 +23,11 @@ TI.
   (CVEs).
 
 - To provide feedback on the effectiveness and accuracy of the Defender
-  Threat Intelligence integration with Copilot for Security.
+  Threat Intelligence integration with Security Copilot.
 
 **Task 1: Exploring and accessing threat-related articles**
 
-1.  In Microsoft Copilot for Security Standalone, navigate and click on
+1.  In Microsoft Security Copilot Standalone, navigate and click on
     Source icon beside he prompt bar as shown in the below image.
 
  ![](./media/image1.png)
@@ -58,8 +57,7 @@ generated](./media/image5.png)
 
 5.  Then, enter the following prompt:
 
- +++**Get threat articles related to ransomware in the last six
- months**+++
+ +++**Get threat articles related to ransomware in the last six months**+++
 
 ![A screenshot of a computer Description automatically
 generated](./media/image6.png)
@@ -79,8 +77,7 @@ Get information on threat actors and the tactics, techniques, and
 procedures (TTPs), sponsored states, industries, and IOCs associated
 with them.
 
-1.  Enter the following prompt, +++**Tell me more about Silk
-    Typhoon**+++
+1.  Enter the following prompt, +++**Tell me more about Silk Typhoon**+++
 
  ![](./media/image9.png)
 
@@ -94,8 +91,7 @@ with them.
  ![A screenshot of a computer Description automatically
  generated](./media/image12.png)
 
-3. Then, enter the following prompt, +++**Share the IOCs associated
-with Silk Typhoon**+++
+3. Then, enter the following prompt, +++**Share the IOCs associated with Silk Typhoon**+++
 
 ![A screenshot of a computer Description automatically
 generated](./media/image13.png)
@@ -125,7 +121,7 @@ generated](./media/image17.png)
 
 **Task 4: Provide feedback**
 
-Your feedback on the Defender TI integration with Copilot for Security
+Your feedback on the Defender TI integration with Security Copilot
 helps with development.
 
 1.  To provide feedback, in Copilot, select **How's this response?** At
@@ -168,7 +164,7 @@ generated](./media/image22.png)
 
 **Summary**
 
-In this lab, you’ve utilized Microsoft Copilot for Security Standalone
+In this lab, you’ve utilized Microsoft Security Copilot Standalone
 to explore and access threat-related articles, enabling you to stay
 updated on the latest cybersecurity trends and emerging threats. Then,
 you’ve obtained valuable insights into the Silk Typhoon threat actor
@@ -177,7 +173,7 @@ understanding the threat landscape and potential risks. You’ve accessed
 information about Common Vulnerabilities and Exposures (CVEs). Finally,
 the lab emphasized the importance of providing feedback on the
 effectiveness and accuracy of the Defender Threat Intelligence
-integration with Copilot for Security, contributing to the continuous
+integration with Security Copilot, contributing to the continuous
 improvement of cybersecurity tools and solutions. Through these tasks,
 you’ve gained practical experience in leveraging threat intelligence to
 bolster the cybersecurity defenses and actively contributed to the
