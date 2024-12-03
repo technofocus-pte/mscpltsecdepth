@@ -1,24 +1,23 @@
-**Lab 9: Adding custom plugins to extend the capabilities of Copilot for
-Security**
+## **Lab 9: Adding custom plugins to extend the capabilities of Security Copilot**
 
 **Introduction**
 
-Copilot for Security comes with many default plugins and supports
+Security Copilot comes with many default plugins and supports
 several non-Microsoft plugins. You can also extend Copilot for
 Security's capabilities by adding or creating your own plugin. The
-Copilot for Security platform enables developers and users to write
+Security Copilot platform enables developers and users to write
 plugins that can be invoked to perform specialized tasks.
 
 **Objectives**
 
-- To integrate a custom plugin into Microsoft Copilot for Security
+- To integrate a custom plugin into Microsoft Security Copilot
   Standalone and utilize it to query geolocation information for a
   specified IP address.
 
 **Task 1: Integrating a custom plugin and obtaining complete information
 of a specific IP address**
 
-1.  In Microsoft Copilot for Security Standalone, navigate and click on
+1.  In Microsoft Security Copilot Standalone, navigate and click on
     **Source** icon beside the prompt bar as shown in the below image.
 
  ![](./media/image1.png)
@@ -81,9 +80,9 @@ generated](./media/image11.png)
 **Summary**
 
 In this lab, you’ve learned how to add custom plugins to Microsoft
-Copilot for Security. You’ve uploaded a Geo.yaml file and successfully
+Security Copilot. You’ve uploaded a Geo.yaml file and successfully
 integrated the IP Address Geolocation plugin. Then, you’ve used a prompt
 for a specific IP address and gained insights into its city, region,
 country, coordinates, timezone, and zipcode, thereby enhancing your
 proficiency in custom plugin integration and geolocation querying within
-the Microsoft Copilot for Security environment.
+the Microsoft Security Copilot environment.
