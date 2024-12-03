@@ -1,4 +1,4 @@
-**Lab 7 - Identity Risk Investigation and Mitigation with Microsoft
+## **Lab 7 - Identity Risk Investigation and Mitigation with Microsoft
 Copilot for Security in Microsoft Entra**
 
 **Introduction**
@@ -43,9 +43,7 @@ incident**
  **Note**: You'll have a different domain name for the user, change the
  domain name accordingly.
 
-+++**Get the Microsoft Entra user groups that
-<bob@WWLxXXXXX.onmicrosoft.com is a member of. Put information in table
-format.**+++
++++**Get the Microsoft Entra user groups that bob@WWLxXXXXX.onmicrosoft.com is a member of. Put information in table format.**+++
 
 ![A screenshot of a computer Description automatically
 generated](./media/image3.png)
@@ -55,8 +53,7 @@ generated](./media/image3.png)
 4.  Use the following prompt to obtain the specific user details
     involved in a security incident.
 
-*+++***Give me all user details for <bob@WWLxXXXXX.onmicrosoft.com and
-extract the user Object ID***+++*
++++ **Give me all user details for <bob@WWLxXXXXX.onmicrosoft.com and extract the user Object ID**+++
 
 ![](./media/image5.png)
 
