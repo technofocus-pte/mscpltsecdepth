@@ -28,7 +28,7 @@ TI.
 **Task 1: Exploring and accessing threat-related articles**
 
 1.  In Microsoft Security Copilot Standalone, navigate and click on
-    Source icon beside he prompt bar as shown in the below image.
+    **Source** icon beside the prompt bar as shown in the below image.
 
  ![](./media/q11.png)
 
