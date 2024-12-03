@@ -51,10 +51,10 @@ generated](./media/t2.png)
 ![A screenshot of a computer Description automatically
 generated](./media/t3.png)
 
-5. You can click on the Reference article and read the full analysis report.
-   
 ![A screenshot of a computer Description automatically generated](./media/t4.png)
 
+5. Click on the Reference article as shown in the below image, then go through the full analysis report.
+   
 ![A screenshot of a computer Description automatically generated](./media/t5.png)
 
 ![A screenshot of a computer Description automatically generated](./media/t6.png)
@@ -66,16 +66,16 @@ generated](./media/t3.png)
  +++**Get threat articles related to ransomware in the last six months**+++
 
 ![A screenshot of a computer Description automatically
-generated](./media/image6.png)
+generated](./media/s1.png)
 
 6.  Review the latest threat intelligence articles related to ransomware
     over the past six months.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image7.png)
+generated](./media/s2.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image8.png)
+generated](./media/s3.png)
 
 **Task 2: Threat actor mapping and infrastructure**
 
@@ -85,27 +85,30 @@ with them.
 
 1.  Enter the following prompt, +++**Tell me more about Silk Typhoon**+++
 
- ![](./media/image9.png)
+ ![](./media/s4.png)
 
 2.  Carefully review the information related to Silk Typhoon.
 
- ![](./media/image10.png)
+ ![](./media/s5.png)
 
  ![A screenshot of a computer Description automatically
- generated](./media/image11.png)
+ generated](./media/s6.png)
 
  ![A screenshot of a computer Description automatically
- generated](./media/image12.png)
+ generated](./media/s7.png)
 
 3. Then, enter the following prompt, +++**Share the IOCs associated with Silk Typhoon**+++
 
 ![A screenshot of a computer Description automatically
-generated](./media/image13.png)
+generated](./media/s8.png)
 
 4.  Review the IOCs associated with Silk Typhoon.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image14.png)
+generated](./media/s9.png)
+
+![A screenshot of a computer Description automatically
+generated](./media/s10.png)
 
 **Task 3: Vulnerability data by CVE**
 
@@ -115,15 +118,15 @@ Vulnerabilities and Exposures (CVEs).
 1.  Enter the following prompt, +++**Show me the latest CVEs**+++
 
 ![A screenshot of a computer Description automatically
-generated](./media/image15.png)
+generated](./media/s11.png)
 
 2.  Review all the latest CVEs.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image16.png)
+generated](./media/s12.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image17.png)
+generated](./media/s13.png)
 
 **Task 4: Provide feedback**
 
@@ -134,7 +137,7 @@ helps with development.
     the bottom of each completed prompt.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image18.png)
+generated](./media/s14.png)
 
 2.  Here, we are selecting **Looks right**. You can select the response
     based on your experience related to the output provided by Copilot
@@ -150,23 +153,23 @@ generated](./media/image18.png)
   questionable, ambiguous, or potentially harmful information.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image19.png)
+generated](./media/s15.png)
 
 3.  In **Send feedback to Microsoft** dialog box, select **Accurate**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image20.png)
+generated](./media/s16.png)
 
 4.  Click on the **Send** button.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image21.png)
+generated](./media/s17.png)
 
 5.  You can see your feedback under the generated output of Copilot for
     Security.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image22.png)
+generated](./media/s18.png)
 
 **Summary**
 
