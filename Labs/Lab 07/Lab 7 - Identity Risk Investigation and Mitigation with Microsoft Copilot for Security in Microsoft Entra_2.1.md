@@ -49,10 +49,11 @@ generated](./media/image3.png)
 
 ![](./media/image4.png)
 
-4.  Use the following prompt to obtain the specific user details
-    involved in a security incident.
+4. Use the follow up question suggested by copilot such as What licenses are assigned to the user bob@WWLxXXXXX.onmicrosoft.com
+  
+6.  Use the following prompt to obtain the specific user details involved in a security incident.
 
-+++Give me all user details for bob@WWLxXXXXX.onmicrosoft.com and extract the user Object ID+++
++++**Give me all user details for bob@WWLxXXXXX.onmicrosoft.com and extract the user Object ID**+++
 
 ![](./media/image5.png)
 
