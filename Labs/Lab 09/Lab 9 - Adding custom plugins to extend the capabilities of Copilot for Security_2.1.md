@@ -20,26 +20,26 @@ of a specific IP address**
 1.  In Microsoft Security Copilot Standalone, navigate and click on
     **Source** icon beside the prompt bar as shown in the below image.
 
- ![](./media/image1.png)
+ ![](./media/sr2.png)
 
 2.  Scroll down to Custom section and click on **Add plugin** as shown
     in the below image.
 
  ![A screenshot of a computer Description automatically
- generated](./media/image2.png)
+ generated](./media/sr3.png)
 
- ![](./media/image3.png)
+ ![](./media/sr4.png)
 
 3.  In the **Add a plugin** page, navigate and click on **Copilot for
     Security plugin**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image4.png)
+generated](./media/sr5.png)
 
 4.  Scroll down and click on **Upload file**.
 
 ![A screenshot of a plugin Description automatically
-generated](./media/image5.png)
+generated](./media/sr6.png)
 
 5.  Navigate to **C:\Labfiles** and select **Geo.yaml** file.
 
@@ -54,28 +54,34 @@ generated](./media/image7.png)
     **Add** button.
 
 ![A screenshot of a plugin Description automatically
-generated](./media/image8.png)
+generated](./media/sr7.png)
 
 8.  You will see that the customized plugin i.e., **IP Address
     Geolocation** is successfully added to Microsoft Copilot for
     Security Standalone.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image9.png)
+generated](./media/sr8.png)
 
 9.  Go back to the prompt bar and enter the following prompt:
 
 +++**Tell me the geolocation of ip 173.252.167.50?**+++
 
 ![A screenshot of a computer Description automatically
-generated](./media/image10.png)
+generated](./media/sr9.png)
 
 10. You will get the complete information about the IP address city,
     region, country, latitudes and longitude coordinates, timezone,
     zipcode, etc.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image11.png)
+generated](./media/sr10.png)
+
+![A screenshot of a computer Description automatically
+generated](./media/sr15.png)
+
+![A screenshot of a computer Description automatically
+generated](./media/sr16.png)
 
 **Summary**
 
