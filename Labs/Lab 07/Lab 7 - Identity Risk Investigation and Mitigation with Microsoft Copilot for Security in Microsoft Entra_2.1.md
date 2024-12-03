@@ -52,9 +52,9 @@ generated](./media/image3.png)
 4.  Use the following prompt to obtain the specific user details
     involved in a security incident.
 
-+++**Give me all user details for <bob@WWLxXXXXX.onmicrosoft.com and extract the user Object ID**+++
-
 ![](./media/image5.png)
+
++++Give me all user details for <bob@WWLxXXXXX.onmicrosoft.com and extract the user Object ID+++
 
 5.  Click on **User Management page** link as shown in the below image.
 
