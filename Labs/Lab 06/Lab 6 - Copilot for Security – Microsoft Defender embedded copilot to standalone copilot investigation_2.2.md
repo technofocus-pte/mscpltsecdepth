@@ -229,20 +229,19 @@ generated](./media/image32.png)
 
 ![](./media/image33.png)
 
-**Task 5: Microsoft Defender Incident Investigation using Copilot for
-Security Promptbook Library**
+**Task 5: Microsoft Defender Incident Investigation using Security Copilot Promptbook Library**
 
 1.  In Microsoft Security Copilot Standalone, navigate and click on
     the three horizonal ellipsis, then click on **Promptbook library**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image34.png)
+generated](./media/p1.png)
 
 2.  In the Promptbook library page, select **Microsoft 365 Defender
     incident investigation**.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image35.png)
+generated](./media/p2.png)
 
 3.  Go back to Microsoft Defender portal, click on **Incident &
     alerts**, then click on **Incident**. Note down the Incident ID
@@ -250,7 +249,10 @@ generated](./media/image35.png)
     incident ID.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image14.png)
+generated](./media/k4.png)
+
+![A screenshot of a computer Description automatically
+generated](./media/k1.png)
 
 4.  Go back to Microsoft Security Copilot, click on **Start new
     sesssion** button, in the **Defender Incident ID** field, enter your
@@ -258,24 +260,30 @@ generated](./media/image14.png)
     and click on the **Submit** button.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image36.png)
+generated](./media/p3.png)
 
-![](./media/image37.png)
+![](./media/p4.png)
 
 5.  Carefully review the Microsoft 365 Defender incident investigation
     report generated using the prompt library.
 
 ![A screenshot of a computer Description automatically
-generated](./media/image38.png)
+generated](./media/p5.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image39.png)
+generated](./media/p6.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image40.png)
+generated](./media/p7.png)
 
 ![A screenshot of a computer Description automatically
-generated](./media/image41.png)
+generated](./media/p8.png)
+
+![A screenshot of a computer Description automatically
+generated](./media/p9.png)
+
+![A screenshot of a computer Description automatically
+generated](./media/p10.png)
 
 **Summary**
 
