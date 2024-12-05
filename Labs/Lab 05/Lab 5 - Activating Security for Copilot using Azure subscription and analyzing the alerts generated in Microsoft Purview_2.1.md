@@ -245,8 +245,7 @@ generated](./media/c14.png)
 6.  Go back to Microsoft Security Copilot Standalone mode and enter
     the following prompt:
 
-+++**Which Purview Data Loss Prevention alerts should I prioritize
-today?**+++
++++**Which Purview Data Loss Prevention alerts should I prioritize today?**+++
 
  ![](./media/image41.png)
 
