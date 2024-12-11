@@ -65,7 +65,7 @@ generated](./media/sr8.png)
 
 9.  Go back to the prompt bar and enter the following prompt:
 
-+++**Tell me the geolocation of ip 173.252.167.50?**+++
+    +++**Tell me the geolocation of ip 173.252.167.50?**+++
 
 ![A screenshot of a computer Description automatically
 generated](./media/sr9.png)
