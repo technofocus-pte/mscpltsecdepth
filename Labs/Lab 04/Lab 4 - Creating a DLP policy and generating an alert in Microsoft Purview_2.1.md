@@ -282,10 +282,9 @@ generated](./media/image28.png)
 
 12.  Go back to **Microsoft Purview** portal. In the **Data Loss Prevention** section, navigate and click on **Alerts**, you'll see the Alerts stating -- **DLP policy match for document 'Katie Jordan.txt' in OneDrive** along with the **Severity** and **Status** of the alerts.
 
-            ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/bf19f608-1aa5-4fba-a205-79c03c7d288d.png)
+    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/bf19f608-1aa5-4fba-a205-79c03c7d288d.png)
 
-            ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/bf00f557-7610-4d36-bb5d-b04e032f7095.png)
-
+    ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/bf00f557-7610-4d36-bb5d-b04e032f7095.png)
 
     **Note**: You’ll analyze the alerts generated through the Custom DLP policy using Microsoft Security Copilot in the upcoming task. As the SCU consume a lot       of credits; therefore, to prevent unnecessary credit loss, we’ve moved this task in the next lab.
 
