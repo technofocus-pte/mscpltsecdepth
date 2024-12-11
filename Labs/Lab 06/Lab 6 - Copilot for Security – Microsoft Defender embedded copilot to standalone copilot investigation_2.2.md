@@ -103,7 +103,6 @@ generated](./media/image9.png)
 
 ![](./media/d1.png)
 
-
 8.  Carefully review the key findings of script analysis.
 
 ![](./media/d2.png)
@@ -119,13 +118,9 @@ generated](./media/image9.png)
 9.  In Microsoft Security Copilot Standalone, enter the following
     prompt to obtain the summary of the incident.
 
-+++**Provide me a summary of defender incident 2**+++
+    +++**Provide me a summary of defender incident 2**+++
 
-**Note**: Number #2 represent the Incident ID, you may have a different
-Incident ID. To know about your Incident ID, navigate to Microsoft
-Defender portal, click on Incidents and you will find the Incident ID in
-**Multi-stage incident involving Execution & Persistence on one
-endpoint** row.
+    **Note**: Number #2 represent the Incident ID, you may have a different Incident ID. To know about your Incident ID, navigate to Microsoft Defender portal,       click on Incidents and you will find the Incident ID in **Multi-stage incident involving Execution & Persistence on one endpoint** row.
 
 ![A screenshot of a computer Description automatically
 generated](./media/k4.png)
