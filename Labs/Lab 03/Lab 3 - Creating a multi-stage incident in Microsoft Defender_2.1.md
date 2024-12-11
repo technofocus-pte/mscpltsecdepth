@@ -197,7 +197,7 @@ generated](./media/image29.png)
 1.  In **Git Bash**, execute the following command to download
     **examples** folder containing various malware files and scripts.
 
-+++**git clone https://github.com/directorcia/examples**+++
+    +++**git clone https://github.com/directorcia/examples**+++
 
 ![](./media/image31.png)
 
@@ -247,19 +247,12 @@ generated](./media/image38.png)
     sometimes used for stealth, as it is harder to trace back to the
     document.
 
-**Note**: When the backdoor is launched, it creates an auto-start entry
-under the registry Run key, allowing it to stay persistent by starting
-automatically with Windows. A Command Prompt window opens, indicating
-that the simulated backdoor is running. Close the Command Prompt window
-to end the **WinATP-Intro-Backdoor.exe** process. In case, you did not
-see the Command Prompt window, then move on to the next step.
+    **Note**: When the backdoor is launched, it creates an auto-start entry under the registry Run key, allowing it to stay persistent by starting automatically       with Windows. A Command Prompt window opens, indicating that the simulated backdoor is running. Close the Command Prompt window to end the **WinATP-Intro         Backdoor.exe** process. In case, you did not see the Command Prompt window, then move on to the next step.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image39.png)
 
-10. Open
-    **TestFile_Block_Office_applications_from_creating_executable** in
-    word as shown in the below image.
+10. Open **TestFile_Block_Office_applications_from_creating_executable** in word as shown in the below image.
 
 ![](./media/image40.png)
 
@@ -268,8 +261,7 @@ generated](./media/image39.png)
 
 ![](./media/image41.png)
 
-In case, **Microsoft Word Security Notice** dialog box appears, click on
-the **OK** button.
+    In case, **Microsoft Word Security Notice** dialog box appears, click on the **OK** button.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image42.png)
@@ -304,13 +296,13 @@ error.
 15. Type +++**ls**+++ to get the list of the
     scripts in the folder. Then, execute the following script:
 
- +++**./SQLDumper.exe**+++
+     +++**./SQLDumper.exe**+++
 
  ![](./media/image47.png)
 
 16. Run the following command:
 
- +++**.\wdtestfile.exe**+++
+     +++**.\wdtestfile.exe**+++
 
  ![](./media/image48.png)
 
@@ -319,8 +311,7 @@ error.
  ![A screenshot of a computer Description automatically
  generated](./media/image49.png)
 
-**Note**: Alerts generated will be started within 15-30 minutes in
-Microsoft Defender Portal.
+    **Note**: Alerts generated will be started within 15-30 minutes in Microsoft Defender Portal.
 
 ## **Task 3: Performing a ransomware attack using RanSim**
 
@@ -331,7 +322,7 @@ on the system you execute it on.
 
 1.  Download the RanSim folder in testvm1 using the following script:
 
-+++**git clone https://github.com/lawndoc/RanSim.git**+++
+    +++**git clone https://github.com/lawndoc/RanSim.git**+++
 
 ![](./media/image50.png)
 
@@ -352,11 +343,8 @@ generated](./media/image52.png)
 
 ![](./media/image53.png)
 
-5.  On the **New User Variable** dialog box, in the **Variable
-    name** field, enter +++**TargetPath+++**, and in the **Variable
-    value** field,
-    enter +++**C:\RanSim**+++, then press
-    the **OK** button.
+5.  On the **New User Variable** dialog box, in the **Variable name** field, enter +++**TargetPath+++**, and in the **Variable
+    value** field, enter +++**C:\RanSim**+++, then press the **OK** button.
 
 ![](./media/image54.png)
 
