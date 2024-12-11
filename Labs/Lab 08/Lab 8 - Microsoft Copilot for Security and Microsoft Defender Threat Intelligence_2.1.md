@@ -41,9 +41,9 @@ TI.
 3.  Enter the following prompt to obtain the latest threat related
     articles.
 
- +++**Show me the latest threat articles**+++
+     +++**Show me the latest threat articles**+++
 
-![A screenshot of a computer Description automatically
+   ![A screenshot of a computer Description automatically
 generated](./media/t2.png)
 
 4.  Carefully review the output. 
@@ -63,7 +63,7 @@ generated](./media/t3.png)
 
 5.  Then, enter the following prompt:
 
- +++**Get threat articles related to ransomware in the last six months**+++
+    +++**Get threat articles related to ransomware in the last six months**+++
 
 ![A screenshot of a computer Description automatically
 generated](./media/s1.png)
