@@ -101,8 +101,7 @@ generated](./media/image8.png)
 4.  On **Name your DLP policy** pane, in the **Name** field, enter the
     following name:
 
-+++**Custom Policy for Microsoft Security Copilot**+++, then click on
-the **Next** button.
+    +++**Custom Policy for Microsoft Security Copilot**+++, then click on the **Next** button.
 
 ![](./media/image10.png)
 
@@ -240,13 +239,13 @@ generated](./media/image28.png)
 5.  Now, send the following information to both Robert Frost and Megan Bowen to trigger another type of alerts. You can
     also enter random information in this format:
 
-> +++Katie Jordan+++
->
-> +++Credit Card Account number: Visa 45562411537761660+++
->
-> +++Debit Card Account number: MasterCard 5439683992731720+++
->
-> ![](./media/image35.png)
+    +++Katie Jordan+++
+
+    +++Credit Card Account number: Visa 45562411537761660+++
+
+    +++Debit Card Account number: MasterCard 5439683992731720+++
+
+![](./media/image35.png)
 
 6. Copy all the credit card information that you have sent in the Teams.
 
@@ -279,7 +278,7 @@ generated](./media/image28.png)
 13. In OneDrive, click on the folder icon in the left-sided menu, you'll see that file containing sensitive information is successfully uploaded.
     ![](./media/r9.png)
 
-**Note**: Alert generation can take up to 30-60 minutes. 
+    **Note**: Alert generation can take up to 30-60 minutes. 
 
 12.  Go back to **Microsoft Purview** portal. In the **Data Loss Prevention** section, navigate and click on **Alerts**, you'll see the Alerts stating -- **DLP policy match for document 'Katie Jordan.txt' in OneDrive** along with the **Severity** and **Status** of the alerts.
 
@@ -288,12 +287,9 @@ generated](./media/image28.png)
             ![Screenshot](https://gdlabresourceseastus01.blob.core.windows.net/labguideimages/CU-TF-125/All-Labs/bf00f557-7610-4d36-bb5d-b04e032f7095.png)
 
 
-> **Note**: You’ll analyze the alerts generated through the Custom DLP
-> policy using Microsoft Security Copilot in the upcoming task. As
-> the SCU consume a lot of credits; therefore, to prevent unnecessary
-> credit loss, we’ve moved this task in the next lab.
+    **Note**: You’ll analyze the alerts generated through the Custom DLP policy using Microsoft Security Copilot in the upcoming task. As the SCU consume a lot       of credits; therefore, to prevent unnecessary credit loss, we’ve moved this task in the next lab.
 
-**APPENDIX**
+## APPENDIX
 
 1.  In case you did not see the alerts, then click on **Policies**,
     select **Custom Policy for Microsoft Security Copilot**, then
