@@ -150,7 +150,7 @@ generated](./media/image17.png)
 generated](./media/image19.png)
 
 11. In your mobile, install the **Microsoft Authenticator App**. Then,
-    go back to Microsoft Azure port. In the Azure portal, **Microsoft
+    go back to Microsoft Azure portal. In the Azure portal, **Microsoft
     Authenticator -** **Start by getting the app** window, navigate and
     click on the **Next** button.
 
