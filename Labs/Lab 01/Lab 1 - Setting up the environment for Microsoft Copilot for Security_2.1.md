@@ -274,7 +274,7 @@ which included Microsoft Defender for Endpoint feature.
 
 5. Navigate to **Instance details** section, in the **virtual machine
 name** field, enter the name of the virtual machine (here, we
-entered [**TESTSERVER1**]. In
+entered **TESTSERVER1**. In
 the **Region** field, select **Southeast Asia**. In the **Availability
 zone** field, ensure that **Zone 1** is selected. In the **Security
 type** field, click on the dropdown and select **Standard**. In
@@ -293,6 +293,8 @@ uncheck Zone 1, check Zone 2 **or** 3 box. Please note you need to select either
 5.  Navigate to **Size** field and click on **See all sizes**.
     In **Select a VM size** page, navigate and select **B2ms**, then
     click on the **Select** button.
+
+   **Note**: In case, you did not see **B2ms** Size, then change the zone and check. Please note, you need to select only one zone.
 
  ![A screenshot of a computer Description automatically
  generated](./media/image43.png)
