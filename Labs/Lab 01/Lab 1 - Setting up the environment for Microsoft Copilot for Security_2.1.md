@@ -673,7 +673,7 @@ generated](./media/image103.png)
 
 **Note**: Ensure that you select the same zone that was chosen in the previous task.
 
-5.  In the **Security type** field, click on the dropdown and select **Standard**. In the **Image** field, click on **See all images** link, navigate to **Windows 11** tile and click on **Select**.  Then, select **Windows 11 Pro, version 23H2 - x64 Gen 2** as shown in the below images.
+5.  In the **Security type** field, click on the dropdown and select **Standard**. In the **Image** field, select **Windows 11 Pro, version 23H2 - x64 Gen 2** as shown in the below images.
 
 ![](./media/image5a.png)
 
@@ -841,7 +841,7 @@ generated](./media/image124.png)
     unchecking thee check boxes and then click on **Save changes**
     button.
 
-![](./media/image8a.png)
+![](./media/jung1.png)
 
 ![](./media/image126.png)
 
