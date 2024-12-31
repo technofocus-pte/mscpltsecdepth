@@ -972,7 +972,9 @@ generated](./media/image89.png)
     |Username |bob@WWLxXXXXX.onmicrosoft.com  |
     |---|---|
     |Password | `Xof37931@` |
-    
+
+**Note**:**WWLxXXXXX.onmicrosoft.com** is the **Tenant Name** available in the **Resources** tab.
+
 ![](./media/image139.png)
 
 ![](./media/image140.png)
