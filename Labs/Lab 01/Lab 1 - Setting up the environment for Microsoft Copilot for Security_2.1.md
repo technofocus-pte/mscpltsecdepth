@@ -838,7 +838,7 @@ generated](./media/image121.png)
 generated](./media/image124.png)
 
 4.  Remove all the licenses assigned to **Diego Siciliani** by
-    unchecking thee check boxes and then click on **Save changes**
+    unchecking the check boxes and then click on **Save changes**
     button.
 
 ![](./media/jung1.png)
@@ -911,7 +911,7 @@ generated](./media/image134.png)
 ## Task 7: Preparing the prerequisite on the testvm1 virtual machine
 
 1. Go back to Azure portal. In the Azure portal search bar, type
-**virtual machines**, then navigate and click on **Virtual machines**
++++**virtual machines**+++, then navigate and click on **Virtual machines**
 under **Services**.
 
 ![](./media/image136.png)
@@ -958,10 +958,10 @@ generated](./media/image88.png)
 generated](./media/image89.png)
 
 53. After logging in to testvm1 virtual machine, open the Edge browser,
-    then select **Start without data** button  **Confirm and
-    Continue** button  **Continue without this data** button 
-    **Confirm and start browsing** button  **Finish** button) and
-    enter the following URL in the address bar:
+    then select **Start without data** button > click on **Confirm and
+    Continue** button > click on **Continue without this data** button > click on
+    **Confirm and start browsing** button > click on the **Finish** button. 
+    Then, enter the following URL in the address bar:
     `https://portal.office.com`
 
 ![](./media/image138.png)
