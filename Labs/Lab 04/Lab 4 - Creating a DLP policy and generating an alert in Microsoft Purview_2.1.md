@@ -164,38 +164,44 @@ generated](./media/image19.png)
 
 ![](./media/image20.png)
 
-14. Scroll down to **Incident reports** section, select the severity
-    level of the alerts and reports as **High**.
+14. Scroll down to **Incident reports** section, select the severity level of the alerts and reports as **Medium**. Ensure that **Send an alert to admins when a rule match occurs** toggle button as **On**. Then, click on **+Add or remove users**.
 
-![](./media/image21.png)
+![](./media/ab1.png)
 
-15. Leave all the parameters in the default state and click on the
-    **Save** button.
+15. In **Add or Remove users** pane search bar, type +++**MOD**+++, then select **MOD Administrator**, and click on **Add** button. In the **Alerts** page, you will see the MOD Administrator user credentials is successfully added as shown in the below images.
+
+![](./media/ab2.png)
+
+![](./media/ab3.png)
+
+![](./media/ab4.png)
+
+16. Scroll down andd click on the **Save** button.
 
 ![](./media/image22.png)
 
-16. Click on the **Next** button.
+17. Click on the **Next** button.
 
 ![](./media/image23.png)
 
-17. In the **Policy mode** pane, select the radio button of **Turn the
+18. In the **Policy mode** pane, select the radio button of **Turn the
     policy on immediately** and click on the **Next** button.
 
 ![](./media/image24.png)
 
-18. On **Review and finish** pane, carefully review the DLP policy, then
+19. On **Review and finish** pane, carefully review the DLP policy, then
     click on the **Submit** button.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image25.png)
 
-19. The New policy will be created, click on the **Done** button.
+20. The New policy will be created, click on the **Done** button.
 
 ![](./media/image26.png)
 
 ![](./media/image27.png)
 
-20. Navigate and click on **Activity explorer**, then click on **Turn on
+21. Navigate and click on **Activity explorer**, then click on **Turn on
     auditing** button as shown in the below image.
 
 ![A screenshot of a computer Description automatically
