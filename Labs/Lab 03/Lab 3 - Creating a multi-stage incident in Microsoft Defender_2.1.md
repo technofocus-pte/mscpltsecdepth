@@ -261,7 +261,7 @@ generated](./media/image39.png)
 
 ![](./media/image41.png)
 
-    In case, **Microsoft Word Security Notice** dialog box appears, click on the **OK** button.
+In case, **Microsoft Word Security Notice** dialog box appears, click on the **OK** button.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image42.png)
