@@ -194,7 +194,23 @@ generated](./media/image29.png)
 
 ## **Task 2: Executing Malicious Documents and Scripts**
 
-1.  In **Git Bash**, execute the following command to download
+1. In testvm1 search bar, +++**type virus & threat protection**+++ then open it. 
+  
+![](./media/kh3.png)
+
+2. In **type virus & threat protection** page, scroll down and click on **Manage settings**.
+
+![](./media/khan1.png)
+
+![](./media/khan2.png)
+
+3. Turn the toggle off for **Real-time protection**, **cloud-delivered protection**, **Automatic sample submission**, **Tamper protection** as showed in the below images. 
+  
+![](./media/kh4.png)
+
+![](./media/kh5.png)
+  
+4. In **Git Bash**, execute the following command to download
     **examples** folder containing various malware files and scripts.
 
     +++**git clone https://github.com/directorcia/examples**+++
