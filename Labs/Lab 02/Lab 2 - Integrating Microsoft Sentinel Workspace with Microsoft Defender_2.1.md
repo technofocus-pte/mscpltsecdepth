@@ -69,7 +69,7 @@ generated](./media/image6.png)
 
 7.  Select the workspace, then click on the **Add** button.
 
-(./media/image10a.png)
+![](./media/image10a.png)
 
 8.  On Microsoft Sentinel free trial activated dialog box, click on the
     **OK** button.
