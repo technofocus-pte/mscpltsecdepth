@@ -407,6 +407,7 @@ generated](./media/image61.png)
 ![A screenshot of a computer Description automatically
 generated](./media/image62.png)
 
+![](./media/pik1.png)
 
 15.  In the command prompt, execute the following command to initiate a
     ransomware attack. In case, the attack failed to execute
