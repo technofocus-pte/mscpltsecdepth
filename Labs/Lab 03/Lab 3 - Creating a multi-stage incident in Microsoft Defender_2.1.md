@@ -194,11 +194,11 @@ generated](./media/image29.png)
 
 ## **Task 2: Executing Malicious Documents and Scripts**
 
-1. In testvm1 search bar, +++**type virus & threat protection**+++ then open it. 
+1. In testvm1 search bar, type +++**virus & threat protection**+++ then open it. 
   
 ![](./media/kh3.png)
 
-2. In **type virus & threat protection** page, scroll down and click on **Manage settings**.
+2. In **virus & threat protection** page, scroll down and click on **Manage settings**.
 
 ![](./media/khan1.png)
 
@@ -468,9 +468,9 @@ generated](./media/image66.png)
 **Summary**
 
 In this lab, you've installed and configured Git on testvm1. You've also
-executed malicious documents and scripts. Then, you've simulated a
+executed malicious documents and scripts. You've simulated a
 ransomware attack using RanSim. Then, you've checked the protection
 actions and recommendations from Windows Security, examining details of
 quarantined and blocked threats. All these activities will create a
 multi-stage incident, which will be analyzed in the upcoming labs using
-Microsoft Copilot for Security.
+Microsoft Security Copilot.
