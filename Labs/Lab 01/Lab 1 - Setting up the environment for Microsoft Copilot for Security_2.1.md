@@ -493,15 +493,15 @@ click on **Azure virtual machine**.
 **Note**: Ensure that you select the same zone that was chosen in the previous task.
 
 4.  In the **Security type** field, click on the dropdown and
-    select **Standard**. In the **Image** field, click on **See all images** link, navigate to **Windows 11** tile and click on **Select**.  Then, select **Windows 11 Pro, version 23H2 - x64 Gen 2** as shown in the below images.
+    select **Standard**. In the **Image** field, click on **See all images** link, navigate to **Windows 11** tile and click on **Select**.  Then, select **Windows 11 Enterprise, version 22H2 - x64 Gen 2** as shown in the below images.
 
 ![](./media/image5a.png)
 
 ![](./media/image5b.png)
 
-![](./media/newv1.png)
+![](./media/win11.png)
 
-![](./media/newv2.png)
+![](./media/win12.png)
 
 19. Navigate to **Administrator account** section, enter the following
     details and leave all the field in the default state:
@@ -673,15 +673,15 @@ generated](./media/image103.png)
 
 **Note**: Ensure that you select the same zone that was chosen in the previous task.
 
-5.  In the **Security type** field, click on the dropdown and select **Standard**. In the **Image** field, select **Windows 11 Pro, version 23H2 - x64 Gen 2** as shown in the below images.
+5.  In the **Security type** field, click on the dropdown and select **Standard**. In the **Image** field, select **Windows 11 Enterprise, version 22H2 - x64 Gen 2** as shown in the below images.
 
 ![](./media/image5a.png)
 
 ![](./media/image5b.png)
 
-![](./media/newv1.png)
+![](./media/win11.png)
 
-![](./media/newv2.png)
+![](./media/win12.png)
 
 
 6.  Navigate to **Administrator account** section, enter the following
