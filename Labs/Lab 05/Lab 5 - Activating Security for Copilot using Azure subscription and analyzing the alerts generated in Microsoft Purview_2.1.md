@@ -246,14 +246,16 @@ generated](./media/c14.png)
 
 6. Go back to Microsoft Security Copilot Standalone mode and enter the following prompt:
 
-    +++**Which Purview Data Loss Prevention alerts should I prioritize today?**+++
+    +++**Show me the most recent DLP alerts**+++
 
- ![](./media/image41.png)
+ ![](./media/purview1.png)
 
-7.  The top 10 Microsoft Purview DLP alerts will be displayed along with
+7.  The most recent Microsoft Purview DLP alerts will be displayed along with
     **Alert ID** and **Severity**, carefully review them.
 
- ![](./media/image42.png)
+![](./media/purview2.png)
+
+![](./media/purview3.png)
 
 **Summary**
 
