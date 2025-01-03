@@ -152,10 +152,10 @@ click on the **Continue** button.
 ![A screenshot of a computer Description automatically
 generated](./media/c6.png)
 
-25. On **Accessing Data from Microsoft 365 services** page, click on **Continue** button.
+25. On **Copilot's access and storage of Microsoft 365 service data** page, click on the **Continue** button.
 
 ![A screenshot of a computer Description automatically
-generated](./media/c7.png)
+generated](./media/ca12.png)
 
 25. On **Logging audit data in Microsoft Purview** page, click on **Continue** button.
 
