@@ -165,15 +165,18 @@ generated](./media/c8.png)
 26. On the next page, click on **Continue** button.
 
 ![A screenshot of a computer Description automatically
-generated](./media/c9.png)
+generated](./media/cop1.png)
 
-26. In **You’re all set** page, click on the **Finish** button.
+![A screenshot of a computer Description automatically
+generated](./media/cop2.png)
+
+27. In **You’re all set** page, click on the **Finish** button.
 
 ![](./media/c10.png)
 
 ![](./media/c11.png)
 
-27. Microsoft Security Copilot is successfully activated.
+28. Microsoft Security Copilot is successfully activated.
 
 ![](./media/c12.png)
 
