@@ -286,7 +286,7 @@ generated](./media/image28.png)
 
     **Note**: Alert generation can take up to 30-60 minutes. 
 
-12.  Go back to **Microsoft Purview** portal. In the **Data Loss Prevention** section, navigate and click on **Alerts**, you'll see the Alerts stating -- **DLP policy match for document 'Katie Jordan.txt' in OneDrive** along with the **Severity** and **Status** of the alerts.
+12.  Go back to **Microsoft Purview** portal. In the **Data Loss Prevention** section, navigate and click on **Alerts**, you'll see the generated Alerts. Click on any alert to explore it further. .
     
     ![](./media/qur1.png)
 
