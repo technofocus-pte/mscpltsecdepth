@@ -215,7 +215,7 @@ of vulnerable software, and relevant Microsoft Intune information.
 ![A screenshot of a computer Description automatically
 generated](./media/image31.png)
 
-2. Select **testvm1**.
+2. Click on **testvm1**.
 
 ![A screenshot of a computer Description automatically
 generated](./media/image32.png)
@@ -238,20 +238,8 @@ generated](./media/p1.png)
 ![A screenshot of a computer Description automatically
 generated](./media/p2.png)
 
-3.  Go back to Microsoft Defender portal, click on **Incident &
-    alerts**, then click on **Incident**. Note down the Incident ID
-    mentioned beside the generated incident. You may have a different
-    incident ID.
-
-![A screenshot of a computer Description automatically
-generated](./media/k4.png)
-
-![A screenshot of a computer Description automatically
-generated](./media/k1.png)
-
-4.  Go back to Microsoft Security Copilot, click on **Start new
-    sesssion** button, in the **Defender Incident ID** field, enter your
-    incident ID (here, we entered 5, you may have different Incident ID)
+3.  Click on **Start new sesssion** button, in the **Defender Incident ID** field, enter your
+    incident ID (here, we entered 2, you may have different Incident ID)
     and click on the **Submit** button.
 
 ![A screenshot of a computer Description automatically
