@@ -234,19 +234,17 @@ generated](./media/c14.png)
 
  ![](./media/image38.png)
 
-4.  In the **Alert: DLP policy match for Teams conversation** pane,
-    click on **Summarize with Copilot** button as shown in the below
-    image.
+4.  In the **Alert: DLP policy match for Teams conversation** pane, scroll down and click on the **Summarize** button and select **Summarize alert** as shown in the below images.
 
-- ![A screenshot of a computer Description automatically
-  generated](./media/image39.png)
+ ![](./media/tw32.png)
 
-5.  Carefully review the **Alert summary**.
+ ![](./media/tw31.png)
 
- ![](./media/image40.png)
+5. Carefully review the **Alert summary**.
 
-6.  Go back to Microsoft Security Copilot Standalone mode and enter
-    the following prompt:
+ ![](./media/tw2.png)
+
+6. Go back to Microsoft Security Copilot Standalone mode and enter the following prompt:
 
     +++**Which Purview Data Loss Prevention alerts should I prioritize today?**+++
 
