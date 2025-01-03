@@ -99,21 +99,19 @@ generated](./media/image9.png)
 
 ![](./media/image10.png)
 
-7.  Then, enter the following prompt - +++**Provide detailed insights from the script analysis, focusing on suspicious patterns or risky commands**+++
+7.  Then, enter the following prompt - +++**Analyze the scripts in Microsoft Defender incidents and highlight any risky or suspicious command**+++
 
-![](./media/d1.png)
+![](./media/aa1.png)
 
 8.  Carefully review the key findings of script analysis.
 
-![](./media/d2.png)
+![](./media/aa2.png)
 
-![](./media/d3.png)
+![](./media/aa3.png)
 
-![](./media/d4.png)
+![](./media/aa4.png)
 
-![](./media/d5.png)
-
-![](./media/d6.png)
+![](./media/aa5.png)
 
 9.  In Microsoft Security Copilot Standalone, enter the following
     prompt to obtain the summary of the incident.
