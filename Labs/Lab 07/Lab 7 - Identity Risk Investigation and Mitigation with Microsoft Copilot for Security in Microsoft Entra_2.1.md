@@ -63,9 +63,13 @@ generated](./media/q2.png)
 
 ![](./media/q6.png)
 
-5.  Click on **User Management page** link as shown in the below image.
+6.  Click on **Entra Admin Center** link as shown in the below image.
 
-![](./media/q7.png)
+![](./media/pn3.png)
+
+![](./media/pn2.png)
+
+![](./media/pn1.png)
 
 **Task 2: Disabling User account involved in a security incident**
 
