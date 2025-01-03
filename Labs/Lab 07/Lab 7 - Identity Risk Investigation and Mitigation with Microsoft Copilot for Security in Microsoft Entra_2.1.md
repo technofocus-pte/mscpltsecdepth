@@ -65,7 +65,7 @@ generated](./media/q2.png)
 
 6.  Click on **Entra Admin Center** link as shown in the below image.
 
-![](./media/pn3.png)
+![](./media/pn22.png)
 
 ![](./media/pn2.png)
 
